@@ -298,7 +298,14 @@ MapPosition=1,13,16
 Outdoor=true
 [351]
 # Pallet Town
-SnapEdges=true
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[360]
+# Route 1
+SnapEdges=false
+BattleBack=
 Bicycle=true
 Outdoor=true
 ShowArea=true

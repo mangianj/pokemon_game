@@ -28,3 +28,5 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
+# Pallet Town (351) - Route 1 (360)
+351,North,17,360,South,12

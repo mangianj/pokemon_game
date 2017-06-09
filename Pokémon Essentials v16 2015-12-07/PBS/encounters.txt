@@ -1,5 +1,5 @@
-######################
-002 # Lappet Town
+#########################
+002 # Pokemon Center
 25,10,10
 Water
 TENTACOOL,14,19
@@ -20,8 +20,8 @@ QWILFISH,16,19
 CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
-######################
-005 # Route 1
+#########################
+005 # House
 25,10,10
 Land
 RATTATA,11,14
@@ -49,8 +49,8 @@ RATTATA,10,14
 HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
-######################
-021 # Route 2
+#########################
+021 # PokeMart
 25,10,10
 Land
 RATTATA,12,15
@@ -102,8 +102,8 @@ WURMPLE,6,8
 SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
-######################
-028 # Natural Park
+#########################
+028 # Room 1
 25,10,10
 Land
 CATERPIE,10
@@ -157,8 +157,8 @@ SCYTHER,13,14
 PINSIR,13,14
 SCYTHER,13,14
 PINSIR,13,14
-######################
-031 # Route 3
+#########################
+031 # Captain's Quaters
 25,10,10
 Land
 NIDORANfE,12,15
@@ -216,8 +216,8 @@ SHROOMISH,14,17
 BURMY,12,15
 BURMY,12,15
 BURMY,12,15
-######################
-034 # Ice Cave
+#########################
+034 # PokeMart
 25,10,10
 Cave
 SWINUB,16,18
@@ -232,8 +232,8 @@ SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
-######################
-039 # Route 4
+#########################
+039 # 2F
 25,10,10
 Land
 SHELLOS,12,15
@@ -248,8 +248,8 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
-######################
-041 # Route 5
+#########################
+041 # 4F
 25,10,10
 Land
 GRIMER,13,15
@@ -264,8 +264,8 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
-######################
-044 # Route 6
+#########################
+044 # 5F
 25,10,10
 Land
 SHELLOS,12,15
@@ -280,8 +280,8 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
-######################
-047 # Route 7
+#########################
+047 # 8F
 25,10,10
 Land
 SHELLOS,12,15
@@ -302,8 +302,8 @@ NOSEPASS,13,14
 GEODUDE,12,15
 GEODUDE,12,15
 GEODUDE,12,15
-######################
-049 # Rock Cave
+#########################
+049 # 9F
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -318,8 +318,8 @@ MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
-######################
-050 # Rock Cave
+#########################
+050 # 10F
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -334,8 +334,8 @@ BURMY,14,16
 BURMY,14,16
 BURMY,14,16
 BURMY,14,16
-######################
-051 # Dungeon
+#########################
+051 # Gym 2
 25,10,10
 Cave
 PICHU,1
@@ -350,8 +350,8 @@ TYROGUE,1
 TYROGUE,1
 TYROGUE,1
 TYROGUE,1
-######################
-066 # Safari Zone
+#########################
+066 # Pokemon Center
 25,10,10
 Land
 NIDORANfE,15,16
@@ -366,8 +366,8 @@ HOPPIP,13,17
 HOPPIP,13,17
 HOPPIP,13,17
 HOPPIP,13,17
-######################
-068 # Safari Zone
+#########################
+068 # Fuji House
 25,10,10
 Land
 RHYHORN,16,18
@@ -401,8 +401,8 @@ REMORAID,17,19
 CARVANHA,16,17
 FINNEON,15,18
 DRATINI,17
-######################
-069 # Route 8
+#########################
+069 # Namerater
 25,10,10
 Land
 ODDISH,15,17
@@ -436,8 +436,8 @@ QWILFISH,16,19
 CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
-######################
-070 # Underwater
+#########################
+070 # House
 25,10,10
 Land
 CLAMPERL,18,20
@@ -452,8 +452,8 @@ RELICANTH,16,19
 RELICANTH,16,19
 RELICANTH,16,19
 RELICANTH,16,19
-######################
-075 # Tiall Region
+#########################
+075 # Room 2
 25,10,10
 Land
 RATTATA,11,14

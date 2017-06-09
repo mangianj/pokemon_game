@@ -7,7 +7,7 @@ Immunities=GHOST
 [1]
 Name=Fighting
 InternalName=FIGHTING
-Weaknesses=FLYING,PSYCHIC
+Weaknesses=FLYING,PSYCHIC,FAIRY
 Resistances=ROCK,BUG,DARK
 
 [2]
@@ -21,7 +21,7 @@ Immunities=GROUND
 Name=Poison
 InternalName=POISON
 Weaknesses=GROUND,PSYCHIC
-Resistances=FIGHTING,POISON,BUG,GRASS
+Resistances=FIGHTING,POISON,BUG,GRASS,FAIRY
 
 [4]
 Name=Ground
@@ -53,7 +53,7 @@ Immunities=NORMAL,FIGHTING
 Name=Steel
 InternalName=STEEL
 Weaknesses=FIGHTING,GROUND,FIRE
-Resistances=NORMAL,FLYING,ROCK,BUG,GHOST,STEEL,GRASS,PSYCHIC,ICE,DRAGON,DARK
+Resistances=NORMAL,FLYING,ROCK,BUG,GHOST,STEEL,GRASS,PSYCHIC,ICE,DRAGON,DARK,FAIRY
 Immunities=POISON
 
 [9]
@@ -107,13 +107,21 @@ Resistances=ICE
 Name=Dragon
 InternalName=DRAGON
 IsSpecialType=true
-Weaknesses=ICE,DRAGON
+Weaknesses=ICE,DRAGON,FARIY
 Resistances=FIRE,WATER,GRASS,ELECTRIC
 
 [17]
 Name=Dark
 InternalName=DARK
 IsSpecialType=true
-Weaknesses=FIGHTING,BUG
+Weaknesses=FIGHTING,BUG,FAIRY
 Resistances=GHOST,DARK
 Immunities=PSYCHIC
+
+[18]
+Name=Fairy
+InternalName=FAIRY
+IsSpecialType=true
+Weaknesses=POISON,STEEL
+Resistances=BUG,FIGHTING,DARK
+Immunities=DRAGON

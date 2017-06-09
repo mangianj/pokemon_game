@@ -107,7 +107,7 @@ Resistances=ICE
 Name=Dragon
 InternalName=DRAGON
 IsSpecialType=true
-Weaknesses=ICE,DRAGON,FARIY
+Weaknesses=ICE,DRAGON,FAIRY
 Resistances=FIRE,WATER,GRASS,ELECTRIC
 
 [17]

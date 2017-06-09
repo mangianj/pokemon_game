@@ -162,3 +162,4 @@
 162,VICTORYSTAR,Victory Star,"Boosts the accuracy of its allies and itself."
 163,TURBOBLAZE,Turboblaze,"Moves can be used regardless of Abilities."
 164,TERAVOLT,Teravolt,"Moves can be used regardless of Abilities."
+165,BULLETPROOF, Bulletproof,"Pokemon with Bulletproof are not affected by ball and bomb moves as well as some cannonbased and blast-based attacks"

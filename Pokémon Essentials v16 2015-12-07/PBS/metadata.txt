@@ -7,178 +7,178 @@ BicycleBGM=Airship.mid
 Home=3,7,5,8
 WildBattleBGM=002-Battle02.mid
 [001]
-# Intro
+# Cerulean City
 [002]
-# Lappet Town
+# Pokemon Center
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
 [003]
-# \PN's house
+# PokeMart
 BattleBack=IndoorB
 MapPosition=0,13,12
 HealingSpot=2,8,8
 [004]
-# Pokémon Lab
+# Gym
 MapPosition=0,13,12
 ShowArea=false
 [005]
-# Route 1
+# House
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
-# Kurt's house
+# House
 MapPosition=0,13,11
 [007]
-# Cedolan City
+# Car Shop
 MapSize=2,11
 MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 [008]
-# Daisy's house
+# Route 24
 MapPosition=0,13,12
 [009]
-# Cedolan City Poké Center
+# Route 25
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# Cedolan Gym
+# Cerulean Cape
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
-# Pokémon Institute
+# Bill's Lighthouse
 MapPosition=0,14,10
 [012]
-# Cedolan City Condo
+# Route 5
 MapPosition=0,14,10
 [013]
-# Game Corner
+# Day Care Center
 MapPosition=0,14,10
 [014]
-# Cedolan Dept. 1F
+# Underground
 MapPosition=0,13,10
 [015]
-# Cedolan Dept. 2F
+# Gate
 MapPosition=0,13,10
 [016]
-# Cedolan Dept. 3F
+# Route 6
 MapPosition=0,13,10
 [017]
-# Cedolan Dept. 4F
+# Saffron City
 MapPosition=0,13,10
 [018]
-# Cedolan Dept. 5F
+# Gate
 MapPosition=0,13,10
 [019]
-# Cedolan Dept. Rooftop
+# Vermillion City
 MapPosition=0,13,10
 [020]
-# Cedolan Dept. Elevator
+# Pokemon Center
 MapPosition=0,13,10
 [021]
-# Route 2
+# PokeMart
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [023]
-# Lerucean Town
+# House
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
 [024]
-# Lerucean Town Poké Center
+# Gym
 MapPosition=0,15,8
 HealingSpot=23,11,15
 [025]
-# Lerucean Town Mart
+# Fan Club
 MapPosition=0,15,8
 [026]
-# Pokémon Fan Club
+# Port
 MapPosition=0,15,8
 [027]
-# Pokémon Day Care
+# S.S. Anne
 MapPosition=0,15,8
 [028]
-# Natural Park
+# Room 1
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 [029]
-# Natural Park Entrance
+# Room 2 (Yours)
 Bicycle=true
 MapPosition=0,16,8
 [030]
-# Natural Park Pavillion
+# Captains Hallway
 MapPosition=0,16,8
 [031]
-# Route 3
+# Captain's Quaters
 MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
 [034]
-# Ice Cave
+# PokeMart
 BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
 [035]
-# Ingido Plateau
+# House
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
 [036]
-# Pokémon League
+# Gym
 MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
-# Pokémon League
+# Fighting Dojo
 BattleBack=EliteA
 MapPosition=0,13,6
 [038]
-# Hall of Fame
+# Silph Co.
 MapPosition=0,13,6
 [039]
-# Route 4
+# 2F
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
 ShowArea=true
 [040]
-# Route 4
+# 3F
 MapPosition=0,11,6
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [041]
-# Route 5
+# 4F
 MapSize=1,111
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [044]
-# Route 6
+# 5F
 MapSize=2,11
 MapPosition=0,11,10
 Outdoor=true
 ShowArea=true
 [045]
-# Route 6
+# 6F
 MapPosition=0,11,10
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [046]
-# Cycling Road gate
+# 7F
 Bicycle=true
 MapPosition=0,12,6
 [047]
-# Route 7
+# 8F
 MapSize=2,11
 BattleBack=Mountain
 Weather=Rain,0
@@ -186,113 +186,126 @@ MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
 [049]
-# Rock Cave
+# 9F
 Bicycle=true
 MapPosition=0,16,10
 [050]
-# Rock Cave
+# 10F
 BattleBack=CaveDark
 Bicycle=true
 MapPosition=0,16,10
 DarkMap=true
 [051]
-# Dungeon
+# Gym 2
 Bicycle=true
 Dungeon=true
 MapPosition=0,16,10
 [052]
-# Battle Frontier
+# Cinnabar Island
 MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
 [053]
-# Battle Frontier Poké Center
+# Pokemon Center
 MapPosition=0,17,10
 HealingSpot=52,17,14
 [054]
-# Battle Frontier Mart
+# PokeMart
 MapPosition=0,17,10
 [055]
-# Battle Tower
+# House
 MapPosition=0,17,10
 HealingSpot=52,30,10
 [056]
-# Battle Tower arena
+# House
 BattleBack=EliteA
 MapPosition=0,17,10
 [057]
-# Stadium Cup lobby
+# Gym
 MapPosition=0,17,10
 [058]
-# Battle Palace
+# Pokemon Lab
 MapPosition=0,17,10
 [059]
-# Battle Palace arena
+# Room 1
 BattleBack=EliteD
 MapPosition=0,17,10
 [060]
-# Battle Arena
+# Room 2
 MapPosition=0,17,10
 [061]
-# Battle Arena arena
+# Room 3
 BattleBack=EliteB
 MapPosition=0,17,10
 [062]
-# Battle Factory
+# Pokémon Mansion
 MapPosition=0,17,10
 [063]
-# Battle Factory intro corridor
+# Volcano
 MapPosition=0,17,10
 [064]
-# Battle Factory arena
+# Volcano 2
 BattleBack=EliteC
 MapPosition=0,17,10
 [065]
-# Battle Factory corridor
+# Lavender Town
 MapPosition=0,17,10
 [066]
-# Safari Zone
+# Pokemon Center
 MapPosition=0,12,12
 Outdoor=true
 ShowArea=true
 [067]
-# Safari Zone gate
+# PokeMart
 MapPosition=0,12,12
 [068]
-# Safari Zone
+# Fuji House
 BattleBack=Forest
 MapPosition=0,12,12
 SafariMap=true
 Outdoor=true
 ShowArea=true
 [069]
-# Route 8
+# Namerater
 DiveMap=70
 MapPosition=0,13,13
 Outdoor=true
 ShowArea=true
 [070]
-# Underwater
+# House
 MapPosition=0,13,13
 [071]
-# Harbour
+# Pokemon Tower
 MapPosition=0,13,13
 [072]
-# Berth Island
+# Indigo Plateau
 Weather=Storm,50
 MapPosition=0,18,17
 Outdoor=true
 ShowArea=true
 [073]
-# Faraday Island
+# Building Center
 MapPosition=0,22,16
 Outdoor=true
 ShowArea=true
 [074]
-# Cycling Road gate
+# Room 1
 Bicycle=true
 MapPosition=0,12,10
 [075]
-# Tiall Region
+# Room 2
 MapPosition=1,13,16
 Outdoor=true
+[351]
+# Pallet Town
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[360]
+# Route 1
+SnapEdges=false
+BattleBack=
+Bicycle=true
+Outdoor=true
+ShowArea=true

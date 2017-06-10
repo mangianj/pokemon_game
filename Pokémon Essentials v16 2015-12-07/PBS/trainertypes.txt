@@ -71,3 +71,4 @@
 69,ELITEFOUR_Agatha,Elite Four,100,elite,,,Female,,
 70,ELITEFOUR_Lance,Elite Four,100,elite,,,Male,,
 71,CHAMPION,Champion,100,elite,,,Male,,
+72,BUGCATCHER_1,BugCatcher,30,,,,Female,,

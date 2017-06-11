@@ -30,3 +30,5 @@
 41,South,6,45,North,0
 # Pallet Town (351) - Route 1 (360)
 351,North,17,360,South,12
+# Route 1 (360) - Viridian City (363)
+360,North,10,363,South,21

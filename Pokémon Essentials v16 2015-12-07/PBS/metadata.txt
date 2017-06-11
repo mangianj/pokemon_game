@@ -305,7 +305,13 @@ ShowArea=true
 [360]
 # Route 1
 SnapEdges=false
-BattleBack=
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[363]
+# Viridian City
+SnapEdges=false
 Bicycle=true
 Outdoor=true
 ShowArea=true

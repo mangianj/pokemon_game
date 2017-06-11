@@ -32,3 +32,5 @@
 351,North,17,360,South,12
 # Route 1 (360) - Viridian City (363)
 360,North,10,363,South,21
+# Viridian City (363) - Route 2 (364)
+363,North,19,364,South,3

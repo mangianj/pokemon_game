@@ -315,3 +315,10 @@ SnapEdges=false
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[364]
+# Route 2
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true

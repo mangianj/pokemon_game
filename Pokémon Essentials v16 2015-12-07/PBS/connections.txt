@@ -33,15 +33,9 @@
 # Route 1 (360) - Viridian City (363)
 360,North,0,363,South,12
 # Pallet Town (351) - Route 1 (360)
-<<<<<<< HEAD
-351,North,5,360,South,0
-=======
-351,North,17,360,South,12
+351,North,16,360,South,11
 # Route 1 (360) - Viridian City (363)
 360,North,10,363,South,21
-<<<<<<< HEAD
->>>>>>> d819798ad405b5e14f5073c80907f52335cae0de
-=======
 # Viridian City (363) - Route 2 (364)
 363,North,19,364,South,3
->>>>>>> cdfcac269fcc91cf7451b078b7919a29e14f528b
+

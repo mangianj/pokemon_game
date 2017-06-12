@@ -73,3 +73,4 @@
 71,CHAMPION,Champion,100,elite,,,Male,,
 72,TEST,Test Guy,5,,,Male,Mixed,,
 73,GYMLEADER,Gym Leader,30,,,,Female,,
+74,LEADER,LEADER,25,,,,Female,,

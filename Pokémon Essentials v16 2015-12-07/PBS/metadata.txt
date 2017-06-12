@@ -322,3 +322,43 @@ BattleBack=Field
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[366]
+# Route 3
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[367]
+# Pewter City
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[368]
+# Route 4
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[369]
+# Route 5
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[370]
+# Cerulean City
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[371]
+# Route 24
+SnapEdges=true
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true

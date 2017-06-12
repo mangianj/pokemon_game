@@ -38,4 +38,15 @@
 360,North,10,363,South,22
 # Viridian City (363) - Route 2 (364)
 363,North,19,364,South,3
-
+# Route 2 (364) - Pewter City (367)
+364,North,13,367,South,6
+# Pewter City (367) - Route 3 (366)
+367,East,18,366,West,10
+# Route 3 (366) - Route 4 (368)
+366,North,49,368,South,16
+# Route 4 (368) - Cerulean City (370)
+368,East,9,370,West,19
+# Cerulean City (370) - Route 24 (371)
+370,North,21,371,South,11
+# Cerulean City (370) - Route 5 (369)
+370,South,14,369,North,8

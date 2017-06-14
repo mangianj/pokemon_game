@@ -374,19 +374,25 @@ ShowArea=true
 SnapEdges=true
 BattleBack=Cave
 Bicycle=false
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [585]
 # Mt. Moon Basement 1
 SnapEdges=true
 BattleBack=Cave
 Bicycle=false
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [586]
 # Mt. Moon Basement 2
 SnapEdges=true
 BattleBack=Cave
 Bicycle=false
+Outdoor=false
+ShowArea=true
+[394]
+# Saffron City
+SnapEdges=true
+Bicycle=true
 Outdoor=true
 ShowArea=true

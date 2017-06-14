@@ -8,12 +8,36 @@ Rotom
 Shaymin
 Thundurus
 Tornadus
+Burmy
 Wormadam
 Zygarde 10
 Zygarde Complete
 Ash Greninja
 Basculin
 Spinda
+Shellos
+Gastrodon
+Deerling 
+Sawsbuck
+Cherrim
+Alolan Rattata
+Alolan Raticate
+Alolan Raichu
+Alolan Sandshrew
+Alolan Sandslash
+Alolan Vulpix
+Alolan Ninetails
+Alolan Diglett
+Alolan Dugtrio
+Alolan Meowth
+Alolan Persian
+Alolan Geodude
+Alolan Graveler
+Alolan Golem
+Alolan Grimer
+Alolan Muk
+Alolan Exeggutor
+Alolan Marowak
 Mega Venusaur	
 Mega Charizard X	
 Mega Charizard Y	

@@ -362,3 +362,31 @@ BattleBack=Field
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[372]
+# Route 25
+SnapEdges=true
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[374]
+# Mt. Moon First Floor
+SnapEdges=true
+BattleBack=Cave
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[585]
+# Mt. Moon Basement 1
+SnapEdges=true
+BattleBack=Cave
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[586]
+# Mt. Moon Basement 2
+SnapEdges=true
+BattleBack=Cave
+Bicycle=false
+Outdoor=true
+ShowArea=true

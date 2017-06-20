@@ -75,3 +75,6 @@
 73,GYMLEADER,Gym Leader,30,,,,Female,,
 74,LEADER,LEADER,25,,,,Female,,
 75,FOSSILMANIAC,Fossil Maniac,30,,,,Male,,
+76,ROCKETASSASSIN,Rocket Assassin,50,,,,Male,,
+77,ROCKETGRUNT_M,Rocket Grunt,30,,,,Male,,
+78,ROCKETGRUNT_F,Rocket Grunt,30,,,,Female,,

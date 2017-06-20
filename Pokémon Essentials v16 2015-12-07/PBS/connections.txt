@@ -50,3 +50,7 @@
 370,North,21,371,South,11
 # Cerulean City (370) - Route 5 (369)
 370,South,14,369,North,8
+# Route 5 (369) - Saffron City (394)
+370,South,16,394,North,33
+# Saffron City (394) - Route 6 (373)
+394,South,32,373,North,11

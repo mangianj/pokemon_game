@@ -369,12 +369,25 @@ BattleBack=Field
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[373]
+# Route 6
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
 [374]
 # Mt. Moon First Floor
 SnapEdges=false
 BattleBack=Cave
 Bicycle=false
 Outdoor=false
+ShowArea=true
+[394]
+# Saffron City
+SnapEdges=false
+Bicycle=true
+Outdoor=true
 ShowArea=true
 [585]
 # Mt. Moon Basement 1
@@ -389,10 +402,4 @@ SnapEdges=false
 BattleBack=Cave
 Bicycle=false
 Outdoor=false
-ShowArea=true
-[394]
-# Saffron City
-SnapEdges=false
-Bicycle=true
-Outdoor=true
 ShowArea=true

@@ -383,8 +383,21 @@ BattleBack=Cave
 Bicycle=false
 Outdoor=false
 ShowArea=true
+[379]
+# Route 11
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
 [394]
 # Saffron City
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[396]
+# Vermillion City
 SnapEdges=false
 Bicycle=true
 Outdoor=true

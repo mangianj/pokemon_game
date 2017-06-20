@@ -54,3 +54,7 @@
 370,South,16,394,North,33
 # Saffron City (394) - Route 6 (373)
 394,South,32,373,North,11
+# Route 6 (373) - Vermillion City (396)
+373,South,11,396,North,18
+# Vermillion City (396) - Route 11 (379)
+396,East,18,379,West,17

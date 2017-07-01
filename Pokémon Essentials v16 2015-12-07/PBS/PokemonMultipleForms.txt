@@ -1,25 +1,37 @@
-﻿Darmanitan
-Deoxys
-Giratina
-Kyurem
-Landorus
-Meloetta
-Rotom
-Shaymin
-Thundurus
-Tornadus
-Burmy
-Wormadam
+﻿Darmanitan Zen
+Deoxys Speed
+Deoxys Attack
+Deoxys Defense
+Giratina Origin
+Black Kyurem
+White Kyruem
+Landorus Incarnate
+Meloetta Pirouette
+Rotom Wash
+Rotom Heat
+Rotom Frost
+Rotom Fan
+Rotom Mow
+Sky Shaymin 
+Thundurus Incarnate
+Tornadus Incarnate
+Resolute Keldeo
+Trash Wormadam
+Sandy Wormadam
 Zygarde 10
 Zygarde Complete
 Ash Greninja
-Basculin
+Basculin Red
 Spinda
-Shellos
-Gastrodon
-Deerling 
-Sawsbuck
-Cherrim
+Shellos Pink
+Gastrodon Pink
+Deerling Summer
+Deerling Fall
+Deerling Winter
+Sawsbuck Summer
+Sawsbuck Fall
+Sawsbuck Winter
+Cherrim Sunny
 Alolan Rattata
 Alolan Raticate
 Alolan Raichu
@@ -76,7 +88,7 @@ Mega Absol
 Mega Glalie	
 Mega Salamence	
 Mega Metagross	
-Mega LatiAS	
+Mega Latias	
 Mega Latios	
 Mega Rayquaza	
 Mega Lopunny	
@@ -89,3 +101,19 @@ Mega Diancie
 Alpha Kyogre	
 Omega Groudon
 Mega Diancie
+Pyroar_F
+Eternal Floette
+Silvally Fire
+Silvally
+Areceus Fire
+Arceus
+Meowstic_F
+Aegislash Shield
+Pumpkaboo Small
+Pumpkaboo Large
+Pumpkaboo Super
+Gourgeist Small
+Gourgeist Large
+Gourgeist Super
+Hoopa Unbound
+

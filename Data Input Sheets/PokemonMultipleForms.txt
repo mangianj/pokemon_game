@@ -1,215 +1,1265 @@
-﻿Darmanitan Zen
-FIRE/PSYCHIC
-0,0,0,0,2,0
-105,30,105,55,140,105
+﻿Name=Darmanitan Zen
+Type1=FIRE
+Type2=PSYCHIC
+EVYield=0,0,0,0,2,0
+BaseStats=105,30,105,55,140,105
 
-Deoxys Speed
-0,0,0,3,0,0
-50,95,90,180,85,90
+Name=Deoxys Speed
+Type1=PSYCHIC
+EVyield=0,0,0,3,0,0
+BaseStats=50,95,90,180,85,90
 
-Deoxys Attack
-0,2,0,0,1,0
-50,180,20,150,180,20
+Name=Deoxys Attack
+Type1=PSYCHIC
+EVYield=0,2,0,0,1,0
+BaseStats=50,180,20,150,180,20
 
-Deoxys Defense
-0,0,2,0,0,1
-50,70,160,90,70,160
+Name=Deoxys Defense
+Type1=PSYCHIC
+EVYield=0,0,2,0,0,1
+BaseStats=50,70,160,90,70,160
 
-Giratina Origin
+Name=Giratina Origin
+Type1=GHOST
+Type2=DRAGON
+EVYield=
+BaseStats=150,120,100,90,120,100
+Ability=LEVITATE
+Weight=
+BaseEXP=
 
 Black Kyurem
+Type1=DRAGON
+Type2=ICE
+EVYield=
+BaseStats=125,170,100,95,120,90
+Ability=TERAVOLT
+Weight=
+BaseEXP=
+MoveSet=
 
 White Kyruem
-
-Landorus Incarnate
+Type1=DRAGON
+Type2=ICE
+EVYield=
+BaseStats=125,120,90,95,170,100
+Ability=TURBOBLAZE
+Weight=
+BaseEXP=
+MoveSet=
 
 Meloetta Pirouette
+Type1=NORMAL
+Type2=FIGHTING
+EVYield=
+BaseStats=100,128,90,128,77,77
+Weight=
+BaseEXP=
 
 Rotom Wash
+Type1=ELECTRIC
+Type2=WATER
+EVYield=
+BaseStats=50,65,107,86,105,107
+Weight=
+BaseEXP=
 
 Rotom Heat
+Type1=ELECTRIC
+Type2=FIRE
+EVYield=
+BaseStats=50,65,107,86,105,107
+Weight=
+BaseEXP=
 
 Rotom Frost
+Type1=ELECTRIC
+Type2=ICE
+EVYield=
+BaseStats=50,65,107,86,105,107
+Weight=
+BaseEXP=
 
 Rotom Fan
+Type1=ELECTRIC
+Type2=FLYING
+EVYield=
+BaseStats=50,65,107,86,105,107
+Weight=
+BaseEXP=
 
 Rotom Mow
+Type1=ELECTRIC
+Type2=GRASS
+EVYield=
+BaseStats=50,65,107,86,105,107
+Weight=
+BaseEXP=
 
 Sky Shaymin 
+Type1=GRASS
+Type2=FLYING
+EVYield=
+BaseStats=100,103,75,127,120,75
+Ability=SERENEGRACE
+Weight=
+BaseEXP=
+Moveset=
 
 Thundurus Incarnate
+Type1=ELECTRIC
+Type2=FLYING
+EVYield=
+BaseStats=79,105,70,101,145,80
+Ability=VOLTABSORB
+Weight=
+BaseEXP=
 
 Tornadus Incarnate
+Type1=FLYING
+EVYield=
+BaseStats=79,100,80,121,110,90
+Ability=REGENERATOR
+Weight=
+BaseEXP=
 
-Resolute Keldeo
+Landerous Incarnate
+Type1=GROUND
+Type2=FLYING
+EVYield=
+BaseStats=89,145,90,91,105,80
+Ability=INTIMIDATE
+Weight=
+BaseEXP=
 
 Trash Wormadam
+Type1=BUG
+Type2=STEEL
+EVYield=
+BaseStats=60,69,95,36,69,95
+Weight=
+BaseEXP=
 
 Sandy Wormadam
+Type1=BUG
+Type2=GROUND
+EVYield=
+BaseStats=60,79,105,36,59,85
+Weight=
+BaseEXP=
 
 Zygarde 10
+Type1=GROUND
+Type2=DRAGON
+EVYield=
+BaseStats=54,100,71,115,61,85
+Ability=AURABREAK,POWERCONSTRUCT
+Weight=
+BaseEXP=
 
 Zygarde Complete
+Type1=GROUND
+Type2=DRAGON
+EVYield=
+BaseStats=216,100,121,85,91,95
+Ability=POWERCONSTRUCT
+Weight=
+BaseEXP=
 
 Ash Greninja
+Type1=WATER
+Type2=DARK
+EVYield=
+BaseStats=72,145,67,132,153,71
+Ability=BATTLEBOND
+Weight=
+BaseEXP=
 
-Spinda
+Lycanroc Night
+Type1=ROCK
+EVYield=
+BaseStats=85,115,75,82,55,75
+Ability=KEENEYE,VITALSPIRIT
+Hidden Ability=NOGUARD
+Weight=
+BaseEXP=
+MoveSet=
 
 Cherrim Sunny
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
 Alolan Rattata
+Type1=DARK
+Type2=NORMAL
+EVYield=
+BaseStats=30,56,35,72,25,35
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Raticate
+Type1=DARK
+Type2=NORMAL
+EVYield=
+BaseStats=75,71,70,77,40,80
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Raichu
+Type1=ELECTRIC
+Type2=PSYCHIC
+EVYield=
+BaseStats=60,85,50,110,95,85
+Ability=SURGESURFER
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Sandshrew
+Type1=ICE
+Type2=STEEL
+EVYield=
+BaseStats=80,75,90,40,10,35
+Ability=SNOWCLOAK,SLUSHRUSH
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Sandslash
+Type1=ICE
+Type2=STEEL
+EVYield=
+BaseStats=75,100,120,65,25,65
+Ability=SNOWCLOAK,SLUSHRUSH
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Vulpix
+Type1=ICE
+EVYield=
+BaseStats=38,41,40,65,50,65
+Ability=SNOWCLOAK,SNOWWARNING
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Ninetails
+Type1=ICE
+Type2=FAIRY
+EVYield=
+BaseStats=73,67,75,109,81,100
+Ability=SNOWCLOAK,SNOWWARNING
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Diglett
+Type1=GROUND
+Type2=STEEL
+EVYield=
+BaseStats=10,55,3,90,35,45
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Dugtrio
+Type1=GROUND
+Type2=STEEL
+EVYield=
+BaseStats=35,100,60,110,50,70
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Meowth
+Type1=DARK
+EVYield=
+BaseStats=40,35,35,90,50,40
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Persian
+Type1=DARK
+EVYield=
+BaseStats=65,60,60,115,75,65
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Geodude
+Type1=ROCK
+Type2=ELECTRIC
+EVYield=
+BaseStats=40,80,100,20,30,30
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Graveler
+Type1=ROCK
+Type2=ELECTRIC
+EVYield=
+BaseStats=55,95,115,35,45,45
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Golem
+Type1=ROCK
+Type2=ELECTRIC
+EVYield=
+BaseStats=80,120,130,45,55,65
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Grimer
+Type1=POISON
+Type2=DARK
+EVYield=
+BaseStats=80,80,50,25,40,50
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Muk
+Type1=POISON
+Type2=DARK
+EVYield=
+BaseStats=105,105,75,50,65,100
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Exeggutor
+Type1=GRASS
+Type2=DRAGON
+EVYield=
+BaseStats=95,105,85,45,125,75
+Ability=FRISK,HARVEST
+Weight=
+BaseEXP=
+MoveSet=
 
 Alolan Marowak
+Type1=FIRE
+Type2=GHOST
+EVYield=
+BaseStats=60,80,110,45,50,80
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
 
 Mega Venusaur
+Type1=GRASS
+Type2=POISON
+EVYield=
+BaseStats=80,100,123,80,122,120
+Ability=THICKFAT
+Weight=
+BaseEXP=
 	
 Mega Charizard X
+Type1=FIRE
+Type2=DRAGON
+EVYield=
+BaseStats=78,130,111,100,130,85
+Ability=TOUGHCLAWS
+Weight=
+BaseEXP=
 	
 Mega Charizard Y
+Type1=FIRE
+Type2=FLYING
+EVYield=
+BaseStats=78,104,78.100,159,115
+Ability=DROUGHT
+Weight=
+BaseEXP=
 	
 Mega Blastoise
+Type1=WATER
+EVYield=
+BaseStats=79,103,120,78,135,115
+Ability=MEGALAUNCHER
+Weight=
+BaseEXP=
 	
 Mega Beedrill	
+Type1=BUG
+Type2=POISON
+EVYield=
+BaseStats=65,150,40,145,15,80
+Ability=ADAPTABILITY
+Weight=
+BaseEXP=
 
 Mega Pidgeot
+Type1=NORMAL
+Type2=FLYING
+EVYield=
+BaseStats=83,80,80,121,135,80
+Ability=NOGUARD
+Weight=
+BaseEXP=
 	
 Mega Alakazam
+Type1=PSYCHIC
+EVYield=
+BaseStats=55,50,65,150,95,175
+Ability=TRACE
+Weight=
+BaseEXP=
 
 Mega Slowbro
+Type1=WATER
+Type2=PSYCHIC
+EVYield=
+BaseStats=95,75,180,30,130,80
+Ability=SHELLARMOR
+Weight=
+BaseEXP=
 	
 Mega Gengar	
+Type1=GHOST
+Type2=POISON
+EVYield=
+BaseStats=60,65,80,130,170,95
+Ability=SHADOWTAG
+Weight=
+BaseEXP=
 
 Mega Kangaskhan	
+Type1=NORMAL
+EVYield=
+BaseStats=105,125,100,100,60,100
+Ability=PARENTALBOND
+Weight=
+BaseEXP=
 
 Mega Pinsir	
+Type1=BUG
+Type2=FLYING
+EVYield=
+BaseStats=65,155,120,105,60,90
+Ability=AERIALATE
+Weight=
+BaseEXP=
 
 Mega Gyarados	
+Type1=WATER
+Type2=DARK
+EVYield=
+BaseStats=95,155,109,81,70,130
+Ability=MOLDBREAKER
+Weight=
+BaseEXP=
 
 Mega Aerodactyl	
+Type1=ROCK
+Type2=FLYING
+EVYield=
+BaseStats=80,135,85,150,70,95
+Ability=TOUGHCLAWS
+Weight=
+BaseEXP=
 
 Mega Mewtwo X
+Type1=PSYCHIC
+Type2=FIGHTING
+EVYield=
+BaseStats=106,190,100,130,154,100
+Ability=STEADFAST
+Weight=
+BaseEXP=
 	
 Mega Mewtwo Y	
+Type1=PSYCHIC
+EVYield=
+BaseStats=106,150,70,140,194,120
+Ability=INSOMNIA
+Weight=
+BaseEXP=
 
 Mega Ampharos
+Type1=ELECTRIC
+Type2=DRAGON
+EVYield=
+BaseStats=90,95,105,45,165,110
+Ability=MOLDBREAKER
+Weight=
+BaseEXP=
 	
 Mega Steelix
+Type1=STEEL
+Type2=GROUND
+EVYield=
+BaseStats=75,125,230,30,55,95
+Ability=SANDFORCE
+Weight=
+BaseEXP=
 	
 Mega Scizor
+Type1=BUG
+Type2=STEEL
+EVYield=
+BaseStats=70,150,140,75,65,100
+Ability=TECHNICIAN
+Weight=
+BaseEXP=
 	
 Mega Heracross
+Type1=BUG
+Type2=FIGHT
+EVYield=
+BaseStats=80,185,115,75,40,105
+Ability=SKILLLINK
+Weight=
+BaseEXP=
 	
 Mega Houndoom
+Type1=DARK
+Type2=FIRE
+EVYield=
+BaseStats=75,90,90,115,140,90
+Ability=SOLARPOWER
+Weight=
+BaseEXP=
 	
 Mega Tyranitar
+Type1=ROCK
+Type2=DARK
+EVYield=
+BaseStats=100,164,150,71,95,120
+Ability=SANDSTREAM
+Weight=
+BaseEXP=
 	
 Mega Sceptile
+Type1=GRASS
+Type2=DRAGON
+EVYield=
+BaseStats=70,110,75,145,145,85
+Ability=LIGHTNINGROD
+Weight=
+BaseEXP=
 	
 Mega Blaziken
+Type1=FIRE
+Type2=FIGHTING
+EVYield=
+BaseStats=80,160,80,100,130,80
+Ability=SPEEDBOOST
+Weight=
+BaseEXP=
 	
 Mega Swampert
+Type1=WATER
+Type2=GROUND
+EVYield=
+BaseStats=100,150,110,70,95,110
+Ability=SWIFTSWIM
+Weight=
+BaseEXP=
 	
 Mega Gardevoir
+Type1=PSYCHIC
+Type2=FAIRY
+EVYield=
+BaseStats=68,85,65,100,165,135
+Ability=PIXILATE
+Weight=
+BaseEXP=
 	
 Mega Sableye
+Type1=DARK
+Type2=GHOST
+EVYield=
+BaseStats=50,85,125,20,85,115
+Ability=MAGICBOUNCE
+Weight=
+BaseEXP=
 	
 Mega Mawile
+Type1=STEEL
+Type2=FAIRY
+EVYield=
+BaseStats=50,105,125,50,55,95
+Ability=HUGEPOWER
+Weight=
+BaseEXP=
 	
 Mega Aggron
+Type1=STEEL
+EVYield=
+BaseStats=70,140,230,50,60,80
+Ability=FILTER
+Weight=
+BaseEXP=
 	
 Mega Medicham
+Type1=FIGHT
+Type2=PSYCHIC
+EVYield=
+BaseStats=60,100,85,100,80,85
+Ability=PUREPOWER
+Weight=
+BaseEXP=
 	
 Mega Manectric
+Type1=ELECTRIC
+EVYield=
+BaseStats=70,75,80,135,135,80
+Ability=INTIMIDATE
+Weight=
+BaseEXP=
 	
 Mega Sharpedo
+Type1=WATER
+Type2=DARK
+EVYield=
+BaseStats=70,140,70,105,110,65
+Ability=STRONGJAW
+Weight=
+BaseEXP=
 	
 Mega Camerupt
+Type1=FIRE
+Type2=GROUND
+EVYield=
+BaseStats=70,120,100,20,145,105
+Ability=SHEERFORCE
+Weight=
+BaseEXP=
 	
 Mega Altaria
+Type1=DRAGON
+Type2=FAIRY
+EVYield=
+BaseStats=75,110,110,80,110,105
+Ability=PIXILATE
+Weight=
+BaseEXP=
 	
 Mega Banette
+Type1=GHOST
+EVYield=
+BaseStats=64,165,75,75,93,83
+Ability=PRANKSTER
+Weight=
+BaseEXP=
 	
 Mega Absol
+Type1=DARK
+EVYield=
+BaseStats=65,150,60,115,115,60
+Ability=MAGICBOUNCE
+Weight=
+BaseEXP=
 	
 Mega Glalie
+Type1=ICE
+EVYield=
+BaseStats=80,120,80,100,120,80
+Ability=REFRIGERATE
+Weight=
+BaseEXP=
 	
 Mega Salamence
+Type1=DRAGON
+Type2=FLYING
+EVYield=
+BaseStats=85,145,130,120,120,90
+Ability=AERIALTE
+Weight=
+BaseEXP=
 	
 Mega Metagross	
+Type1=STEEL
+Type2=PSYCHIC
+EVYield=
+BaseStats=80,145,150,110,105,110
+Ability=TOUGHCLAWS
+Weight=
+BaseEXP=
 
 Mega Latias	
+Type1=DRAGON
+Type2=PSYCHIC
+EVYield=
+BaseStats=80,100,120,110,140,150
+Ability=LEVITATE
+Weight=
+BaseEXP=
 
 Mega Latios
+Type1=DRAGON
+Type2=PSYCHIC
+EVYield=
+BaseStats=80,130,100,110,160,120
+Ability=LEVITATE
+Weight=
+BaseEXP=
 	
 Mega Rayquaza
+Type1=DRAGON
+Type2=FLYING
+EVYield=
+BaseStats=105,180,100,115,180,100
+Ability=DELTASTREAM
+Weight=
+BaseEXP=
 	
 Mega Lopunny	
+Type1=NORMAL
+Type2=FIGHTING
+EVYield=
+BaseStats=65,136,94,135,54,96
+Ability=SCRAPPY
+Weight=
+BaseEXP=
 
 Mega Garchomp
+Type1=DRAGON
+Type2=GROUND
+EVYield=
+BaseStats=108,170,115,92,120,95
+Ability=SANDFORCE
+Weight=
+BaseEXP=
 	
 Mega Lucario	
+Type1=FIGHT
+Type2=STEEL
+EVYield=
+BaseStats=70,145,88,112,140,70
+Ability=ADAPTABILITY
+Weight=
+BaseEXP=
 
 Mega Abomasnow
+Type1=GRASS
+Type2=ICE
+EVYield=
+BaseStats=90,132,105,30,132,105
+Ability=SNOWWARNING
+Weight=
+BaseEXP=
 	
 Mega Gallade
+Type1=PSYCHIC
+Type2=FIGHTING
+EVYield=
+BaseStats=68,165,95,110,65,115
+Ability=INNERFOCUS
+Weight=
+BaseEXP=
 	
 Mega Audino
+Type1=NORMAL
+Type2=FAIRY
+EVYield=
+BaseStats=103,60,126,50,80,126
+Ability=HEALER
+Weight=
+BaseEXP=
 	
 Mega Diancie
+Type1=ROCK
+Type2=FAIRY
+EVYield=
+BaseStats=50,160,110,110,160,110
+Ability=MAGICBOUNCE
+Weight=
+BaseEXP=
 	
 Alpha Kyogre
+Type1=WATER
+EVYield=
+BaseStats=100,150,90,90,180,160
+Ability=PRIMORDIALSEA
+Weight=
+BaseEXP=
 	
 Omega Groudon
-
-Mega Diancie
+Type1=GROUND
+Type2=FIRE
+EVYield=
+BaseStats=100,180,160,90,150,90
+Ability=DESOLATELAND
+Weight=
+BaseEXP=
 
 Pyroar_F
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
 Eternal Floette
+Type1=FAIRY
+EVYield=0,0,0,0,0,4
+BaseStats=74,65,67,92,125,128
+Ability=FLOWERVEIL,SYMBIOSIS
+Weight=.9
+BaseEXP=243
 
 Silvally Fire
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
-Silvally
+Silvally Water
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Electric
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Grass
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Ice
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Fighting
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Poison
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Ground
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Flying
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Psychic
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Bug
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Rock
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Ghost
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Dragon
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Dark
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Silvally Steel
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+Silvally Fairy
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
 Areceus Fire
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
-Arceus
+Arceus Water
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Electric
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Grass
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Ice
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Fighting
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Poison
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Ground
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Flying
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Psychic
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Bug
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Rock
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Ghost
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Dragon
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Dark
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Steel
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Arceus Steel
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
 Meowstic_F
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 
 Aegislash Shield
+EVYield=
+BaseStats=60,50,150,60,50,150
+Weight=
+BaseEXP=
 
 Hoopa Unbound
+Type1=PSYCHIC
+Type2=DARK
+EVYield=
+BaseStats=80,160,60,80,170,130
+Weight=
+BaseEXP=
+
+Mega Charizard Z
+Type1=DRAGON
+Type2=FLYING
+EVYield=
+BaseStats=78,80,70,100,160,56
+Ability=SNIPER
+Weight=
+BaseEXP=
+
+Mega Flygon
+Type1=GROUND
+Type2=BUG
+EVYield=
+BaseStats=80,145,100,110,100,90
+Ability=ADAPTABILITY
+Weight=
+BaseEXP=
+
+Mega Swanna
+Type1=FAIRY
+Type2=FLYING
+EVYield=
+BaseStats=75,106,79,115,106,79
+Ability=PIXILATE
+Weight=
+BaseEXP=
+
+Mega Emolga
+Type1=ELECTRIC
+Type2=FLYING
+EVYield=
+BaseStats=55,80,80,140,99,70
+Ability=STATIC
+Weight=
+BaseEXP=
+
+Mega Hawlucha
+Type1=FIGHTING
+EVYield=
+BaseStats=78,118,80,101,75,130
+Ability=NOGUARD
+Weight=
+BaseEXP=
+
+Mega Noivern
+Type1=FLYING
+Type2=DRAGON
+EVYield=
+BaseStats=85,80,85,168,123,100
+Ability=SPEEDBOOST
+Weight=
+BaseEXP=
+
+Mega Bellossom
+Type1=GRASS
+Type2=FAIRY
+EVYield=
+BaseStats=75,105,110,70,125,110
+Ability=SOLARPOWER
+Weight=
+BaseEXP=
+
+Mega Granbull
+Type1=FAIRY
+Type2=FIGHTING
+EVYield=
+BaseStats=90,150,90,75,65,75
+Ability=STRONGJAW
+Weight=
+BaseEXP=
+
+Mega Ursaring
+Type1=NORMAL
+Type2=FIGHTING
+EVYield=
+BaseStats=90,165,85,85,80,80
+Ability=SCRAPPY
+Weight=
+BaseEXP=
+
+Castform Sunny
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Castform Rainy
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Castform Snowy
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
 

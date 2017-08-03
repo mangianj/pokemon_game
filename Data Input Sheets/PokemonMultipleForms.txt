@@ -185,15 +185,6 @@ Weight=
 BaseEXP=
 MoveSet=
 
-Cherrim Sunny
-Type1=
-Type2=
-EVYield=
-BaseStats=
-Ability=
-Weight=
-BaseEXP=
-
 Alolan Rattata
 Type1=DARK
 Type2=NORMAL

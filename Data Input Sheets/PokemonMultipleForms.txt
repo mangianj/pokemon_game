@@ -185,6 +185,17 @@ Weight=
 BaseEXP=
 MoveSet=
 
+Lycanroc Dusk
+Type1=
+Type2=
+EVYield=
+BAseStats=
+Ability=
+HiddenAbility=
+Weight=
+BaseEXP=
+MoveSet=
+
 Alolan Rattata
 Type1=DARK
 Type2=NORMAL

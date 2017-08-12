@@ -1278,7 +1278,7 @@ Weight=
 BaseEXP=
 MoveSet=1,ANGRYSPLASH,1,SMASHBASH,1,MOUNTAINBOUNCE,1,DRAGONRUSH
 
-Frost Butterfree
+Frostfree
 Type1=BUG
 Type2=ICE
 EVYield=
@@ -1416,4 +1416,35 @@ Ability=STENCH
 Weight=
 BaseEXP=
 MoveSet=1,VENOMDRENCH,1,SLUDGEBOMB,1,THUNDERWAVE,1,EARTHPOWER
+
+Pom Pom Oricorio
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
+
+Sensu Oricorio
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
+
+Pauu Oricorio
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+MoveSet=
+
 

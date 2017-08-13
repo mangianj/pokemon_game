@@ -1146,11 +1146,11 @@ Weight=
 BaseEXP=
 MoveSet=
 
-Aegislash Shield
-EVYield=
-BaseStats=60,50,150,60,50,150
-Weight=
-BaseEXP=
+Aegislash Sword
+EVYield=0,2,0,0,1,0
+BaseStats=60,150,50,60,150,50
+Weight=53.0
+BaseEXP=234
 
 Hoopa Unbound
 Type1=PSYCHIC
@@ -1167,16 +1167,16 @@ EVYield=
 BaseStats=78,80,70,100,160,56
 Ability=SNIPER
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Flygon
-Type1=GROUND
+Type1=DRAGON
 Type2=BUG
 EVYield=
 BaseStats=80,145,100,110,100,90
 Ability=ADAPTABILITY
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Swanna
 Type1=FAIRY
@@ -1185,7 +1185,7 @@ EVYield=
 BaseStats=75,106,79,115,106,79
 Ability=PIXILATE
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Emolga
 Type1=ELECTRIC
@@ -1194,7 +1194,7 @@ EVYield=
 BaseStats=55,80,80,140,99,70
 Ability=STATIC
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Hawlucha
 Type1=FIGHTING
@@ -1202,7 +1202,7 @@ EVYield=
 BaseStats=78,118,80,101,75,130
 Ability=NOGUARD
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Noivern
 Type1=FLYING
@@ -1211,7 +1211,7 @@ EVYield=
 BaseStats=85,80,85,168,123,100
 Ability=SPEEDBOOST
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Bellossom
 Type1=GRASS
@@ -1220,7 +1220,7 @@ EVYield=
 BaseStats=75,105,110,70,125,110
 Ability=SOLARPOWER
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Granbull
 Type1=FAIRY
@@ -1229,7 +1229,7 @@ EVYield=
 BaseStats=90,150,90,75,65,75
 Ability=STRONGJAW
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Mega Ursaring
 Type1=NORMAL
@@ -1238,7 +1238,7 @@ EVYield=
 BaseStats=90,165,85,85,80,80
 Ability=SCRAPPY
 Weight=
-BaseEXP=
+BaseEXP=250
 
 Castform Sunny
 Type1=
@@ -1271,11 +1271,11 @@ BaseEXP=
 Rage Magikarp
 Type1=WATER
 Type2=DRAGON
-EVYield=
+EVYield=0,3,0,0,0,0
 BaseStats=95,125,59,91,70,100
 Ability=MOXIE
-Weight=
-BaseEXP=
+Weight=25.0
+BaseEXP=178
 MoveSet=1,ANGRYSPLASH,1,SMASHBASH,1,MOUNTAINBOUNCE,1,DRAGONRUSH
 
 Frostfree
@@ -1285,7 +1285,7 @@ EVYield=
 BaseStats=60,45,50,80,95,90
 Ability=SLUSHRUSH
 Weight=
-BaseEXP=
+BaseEXP=154
 MoveSet=10,BUGBUZZ,15,ICEBEAM,20,INFESTATION,25,MOONLIGHT
 
 Ash Pikachu
@@ -1294,7 +1294,7 @@ EVYield=
 BaseStats=35,70,45,105,70,55
 Ability=LIGHTNINGROD
 Weight=
-BaseEXP=
+BaseEXP=300
 MoveSet=1,IRONTAIL,1,VOLTTACKLE,1,THUNDERBOLT,1,QUICKATTACK
 
 Pegasus Rapidash
@@ -1304,7 +1304,7 @@ EVYield=
 BaseStats=65,70,70,105,100,90
 Ability=FLAMEBODY
 Weight=
-BaseEXP=
+BaseEXP=165
 MoveSet=1,FLAMETHROWER,1,MOONBLAST,1,AGILITY,1,AIRSLASH
 
 Tiki Aegislash
@@ -1314,7 +1314,7 @@ EVYield=
 BaseStats=60,50,150,60,50,150
 Ability=STANCECHANGE
 Weight=
-BaseEXP=
+BaseEXP=165
 MoveSet=1,KINGSSHIELD,1,SACREDSWORD,1,AQUAJET,1,SHADOWSNEAK
 
 Cruella Cincinno
@@ -1324,7 +1324,7 @@ EVYield=
 BaseStats=75,100,55,110,60,70
 Ability=SKILLLINK
 Weight=
-BaseEXP=
+BaseEXP=148
 MoveSet=1,ARMTHRUST,1,DOUBLESLAP,1,TAILSLAP,1,UMBERPUNCH
 
 Dive Salamance
@@ -1334,7 +1334,7 @@ EVYield=
 BaseStats=95,135,70,90,110,100
 Ability=SWIFTSWIM
 Weight=
-BaseEXP=
+BaseEXP=224
 MoveSet=1,AQUATICSTRIKE,1,OUTRAGE,1,DRAGONDANCE,1,ICEFANG
 
 Black Vivillion
@@ -1344,7 +1344,7 @@ EVYield=
 BaseStats=80,52,50,100,93,55
 Ability=SPEEDBOOST
 Weight=
-BaseEXP=
+BaseEXP=143
 MoveSet=1,DARKPULSE,1,BUGBUZZ,1,KNOCKOFF,1,QUIVERDANCE
 
 Sundra
@@ -1354,7 +1354,7 @@ EVYield=
 BaseStats=90,100,60,80,120,150
 Ability=DROUGHT
 Weight=
-BaseEXP=
+BaseEXP=219
 MoveSet=1,SOLARBEAM,1,FLAMETHROWER,1,DRAGONPULSE,1,SUNNYDAY
 
 Trumpshoos
@@ -1364,7 +1364,7 @@ EVYield=
 BaseStats=88,125,50,40,60,55
 Ability=AFTERMATH
 Weight=
-BaseEXP=
+BaseEXP=45
 MoveSet=1,BRUTALSWING,1,POWERUPPUNCH,1,MACHPUNCH,1,CRUNCH
 
 Creedominable
@@ -1374,7 +1374,7 @@ EVYield=
 BaseStats=97,135,68,45,60,69
 Ability=IRONFIST
 Weight=
-BaseEXP=
+BaseEXP=120
 MoveSet=1,BULLETPUNCH,1,DYNAMICPUNCH,1,DRAINPUNCH,1,COUNTER
 
 Hip Hop Oricorio
@@ -1414,12 +1414,12 @@ EVYield=
 BaseStats=109,58,92,30,84,103
 Ability=STENCH
 Weight=
-BaseEXP=
+BaseEXP=69
 MoveSet=1,VENOMDRENCH,1,SLUDGEBOMB,1,THUNDERWAVE,1,EARTHPOWER
 
 Pom Pom Oricorio
-Type1=
-Type2=
+Type1=ELECTRIC
+Type2=FLYING
 EVYield=
 BaseStats=
 Ability=
@@ -1428,8 +1428,8 @@ BaseEXP=
 MoveSet=
 
 Sensu Oricorio
-Type1=
-Type2=
+Type1=GHOST
+Type2=FLYING
 EVYield=
 BaseStats=
 Ability=
@@ -1438,8 +1438,8 @@ BaseEXP=
 MoveSet=
 
 Pauu Oricorio
-Type1=
-Type2=
+Type1=PSYCHIC
+Type2=FLYING
 EVYield=
 BaseStats=
 Ability=

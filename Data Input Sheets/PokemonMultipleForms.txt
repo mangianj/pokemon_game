@@ -175,25 +175,25 @@ Ability=BATTLEBOND
 Weight=
 BaseEXP=
 
-Lycanroc Night
+Lycanroc Midnight
 Type1=ROCK
-EVYield=
+EVYield=0,2,0,0,0,0
 BaseStats=85,115,75,82,55,75
 Ability=KEENEYE,VITALSPIRIT
 Hidden Ability=NOGUARD
-Weight=
-BaseEXP=
-MoveSet=
+Weight=25.0
+BaseEXP=170
+MoveSet=1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
 
 Lycanroc Dusk
-Type1=
+Type1=Rock
 Type2=
-EVYield=
-BAseStats=
+EVYield=0,2,0,0,0,0
+BaseStats=
 Ability=
 HiddenAbility=
-Weight=
-BaseEXP=
+Weight=25.0
+BaseEXP=170
 MoveSet=
 
 Alolan Rattata

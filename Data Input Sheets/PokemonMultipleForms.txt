@@ -1523,3 +1523,11 @@ Weight=
 BaseEXP=
 MoveSet=1,SANDSTORM,1,STONEEDGE,1,FLAREBLITZ,1,HEADSMASH
 
+Wishiwashi School 
+Type1=WATER
+EVYield=
+BaseStats=45,140,130,30,140,135
+Ability=SCHOOLING
+Weight=
+BaseEXP=
+

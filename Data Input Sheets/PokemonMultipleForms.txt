@@ -190,8 +190,7 @@ Type1=Rock
 Type2=
 EVYield=0,2,0,0,0,0
 BaseStats=
-Ability=
-HiddenAbility=
+Ability=TOUGHCLAWS
 Weight=25.0
 BaseEXP=170
 MoveSet=
@@ -1530,4 +1529,23 @@ BaseStats=45,140,130,30,140,135
 Ability=SCHOOLING
 Weight=
 BaseEXP=
+
+Solgaleo Necro
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
+Lunala Necro
+Type1=
+Type2=
+EVYield=
+BaseStats=
+Ability=
+Weight=
+BaseEXP=
+
 

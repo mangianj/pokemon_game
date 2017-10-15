@@ -1531,15 +1531,24 @@ Weight=
 BaseEXP=
 
 Solgaleo Necro
-Type1=
-Type2=
+Type1=PSYCHIC
+Type2=STEEL
 EVYield=
 BaseStats=
-Ability=
+Ability=PRISMARMOR
 Weight=
 BaseEXP=
 
 Lunala Necro
+Type1=PSYCHIC
+Type2=GHOST
+EVYield=
+BaseStats=
+Ability=PRISMARMOR
+Weight=
+BaseEXP=
+
+Rotomdex
 Type1=
 Type2=
 EVYield=

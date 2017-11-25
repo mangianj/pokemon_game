@@ -96,6 +96,16 @@ BaseStats=50,65,107,86,105,107
 Weight=
 BaseEXP=
 
+Rotom Dex
+Type1=ELECTRIC
+Type2=PSYCHIC
+EVYield=
+BaseStats=50,65,107,86,110,102
+Ability=TRACE
+Weight=
+BaseEXP=
+Moveset=
+
 Sky Shaymin 
 Type1=GRASS
 Type2=FLYING
@@ -1548,13 +1558,7 @@ Ability=PRISMARMOR
 Weight=
 BaseEXP=
 
-Rotomdex
-Type1=
-Type2=
-EVYield=
-BaseStats=
-Ability=
-Weight=
-BaseEXP=
+
+
 
 

@@ -1588,7 +1588,12 @@ Ability=PRISMARMOR
 Weight=
 BaseEXP=
 
-
-
+Mega Gokrunch
+Type1=Fairy
+EVYield=
+BaseStats=100,150,80,120,75,90
+Ability=IRONFIST
+Weight=
+BaseEXP=
 
 

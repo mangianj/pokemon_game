@@ -1,257 +1,257 @@
 ﻿[DARMANITAN-1]
 Type1=FIRE
 Type2=PSYCHIC
-EffortPoints=0,0,0,0,2,0
 BaseStats=105,30,105,55,140,105
-FormName=Darmintan Zen
+EffortPoints=0,0,0,0,2,0
+FormName=Darmanitan Zen
 
 [DEOXYS-1]
 Type1=PSYCHIC
-EffortPoints=0,0,0,3,0,0
 BaseStats=50,95,90,180,85,90
+EffortPoints=0,0,0,3,0,0
 FormName=Deoxys Speed
 
 [DEOXYS-2]
 Type1=PSYCHIC
-EffortPoints=0,2,0,0,1,0
 BaseStats=50,180,20,150,180,20
+EffortPoints=0,2,0,0,1,0
 FormName=Deoxys Attack
 
 [DEOXYS-3]
 Type1=PSYCHIC
-EffortPoints=0,0,2,0,0,1
 BaseStats=50,70,160,90,70,160
+EffortPoints=0,0,2,0,0,1
 FormName=Deoxys Defense
 
 [GIRATINA-1]
 Type1=GHOST
 Type2=DRAGON
-EffortPoints=
 BaseStats=150,120,100,90,120,100
+BaseEXP=306
+EffortPoints=3,0,0,0,0,0
 Ability=LEVITATE
-Weight=
-BaseEXP=
+Weight=650.0
 FormName=Giratina Origin
 
 [KYUREM-1]
-Black Kyurem
 Type1=DRAGON
 Type2=ICE
-EVYield=
 BaseStats=125,170,100,95,120,90
+BaseEXP=297
+EffortPoints=0,3,0,0,0,0
 Ability=TERAVOLT
-Weight=
-BaseEXP=
-MoveSet=
+Moves=1,DRAGONRAGE,1,ICYWIND,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Weight=325.0
+FormName=Black Kyurem
 
 [KYUREM-2]
 White Kyruem
 Type1=DRAGON
 Type2=ICE
-EVYield=
 BaseStats=125,120,90,95,170,100
+BaseEXP=297
+EffortPoints=0,0,0,0,3,0
 Ability=TURBOBLAZE
-Weight=
-BaseEXP=
-MoveSet=
+Moves=1,DRAGONRAGE,1,ICYWIND,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,FREEZESHOCK,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Weight=325.0
+FormName=White Kyurem
 
 [MEOLOETTA-1]
-Meloetta Pirouette
 Type1=NORMAL
 Type2=FIGHTING
-EVYield=
 BaseStats=100,128,90,128,77,77
-Weight=
-BaseEXP=
+BaseEXP=270
+EffortPoints=0,1,1,1,0,0
+Weight=6.5
+FormName=Meloetta Pirouette
 
 [ROTOM-1]
-Rotom Wash
 Type1=ELECTRIC
 Type2=WATER
-EVYield=
 BaseStats=50,65,107,86,105,107
-Weight=
-BaseEXP=
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
+Weight=.3
+FormName=Rotom Wash
 
 [ROTOM-2]
-Rotom Heat
 Type1=ELECTRIC
 Type2=FIRE
-EVYield=
 BaseStats=50,65,107,86,105,107
-Weight=
-BaseEXP=
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
+Weight=.3
+FormName=Rotom Heat
 
 [ROTOM-3]
-Rotom Frost
 Type1=ELECTRIC
 Type2=ICE
-EVYield=
 BaseStats=50,65,107,86,105,107
-Weight=
-BaseEXP=
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
+Weight=.3
+FormName=Rotom Frost
 
 [ROTOM-4]
-Rotom Fan
 Type1=ELECTRIC
 Type2=FLYING
-EVYield=
 BaseStats=50,65,107,86,105,107
-Weight=
-BaseEXP=
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
+Weight=.3
+FormName=Rotom Fan
 
 [ROTOM-5]
-Rotom Mow
 Type1=ELECTRIC
 Type2=GRASS
-EVYield=
 BaseStats=50,65,107,86,105,107
-Weight=
-BaseEXP=
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
+Weight=.3
+FormName=Rotom Mow
 
 [ROTOM-6]
-Rotom Dex
 Type1=ELECTRIC
 Type2=PSYCHIC
-EVYield=
 BaseStats=50,65,107,86,110,102
+BaseEXP=154
+EffortPoints=0,0,0,1,1,0
 Ability=TRACE
-Weight=
-BaseEXP=
-Moveset=
+Weight=.5
+FormName=Rotom Dex
 
 [SHAYMIN-1]
-Sky Shaymin 
 Type1=GRASS
 Type2=FLYING
-EVYield=
 BaseStats=100,103,75,127,120,75
+BaseEXP=270
+EffortPoints=0,0,0,3,0,0
 Ability=SERENEGRACE
-Weight=
-BaseEXP=
-Moveset=
+Moves=1,GROWTH,10,MAGICALLEAF,19,LEECHSEED,28,QUICKATTACK,37,SWEETSCENT,476,NATURALGIFT,55,WORRYSEED,64,AIRSLASH,73,ENERGYBALL,82,SWEETKISS,91,LEAFSTORM,100,SEEDFLARE
+Weight=5.2
+FormName=Sky Shaymin
 
-[THUNDERUS-1]
-Thundurus Incarnate
+[THUNDURUS-1]
 Type1=ELECTRIC
 Type2=FLYING
-EVYield=
 BaseStats=79,105,70,101,145,80
+BaseEXP=261
+EffortPoints=0,0,0,0,3,0
 Ability=VOLTABSORB
-Weight=
-BaseEXP=
+Weight=61.0
+FormName=Thundurus Therian
 
 [TORNADUS-1]
-Tornadus Incarnate
 Type1=FLYING
-EVYield=
 BaseStats=79,100,80,121,110,90
+BaseEXP=261
+EffortPoints=0,0,0,3,0,0
 Ability=REGENERATOR
-Weight=
-BaseEXP=
+Weight=63.0
+FormName=Tornadus Therian
 
-[LANDEROUS-1]
-Landerous Incarnate
+[LANDORUS-1]
 Type1=GROUND
 Type2=FLYING
-EVYield=
 BaseStats=89,145,90,91,105,80
+BaseEXP=270
+EffortPoints=0,3,0,0,0,0
 Ability=INTIMIDATE
-Weight=
-BaseEXP=
+Weight=68.0
+FormName=Landeorus Incarnate
 
 [WORMADAM-1]
-Trash Wormadam
 Type1=BUG
 Type2=STEEL
-EVYield=
 BaseStats=60,69,95,36,69,95
-Weight=
-BaseEXP=
+BaseEXP=148
+EffortPoints=0,0,1,0,0,1
+Weight=6.5
+FormName=Trash Wormadam
 
 [WORMADAM-2]
-Sandy Wormadam
 Type1=BUG
 Type2=GROUND
-EVYield=
 BaseStats=60,79,105,36,59,85
-Weight=
-BaseEXP=
+BaseEXP=148
+EffortPoints=0,0,2,0,0,0
+Weight=6.5
+FormName=Sandy Wormadam
 
 [ZYGARDE-1]
-Zygarde 10
 Type1=GROUND
 Type2=DRAGON
-EVYield=
 BaseStats=54,100,71,115,61,85
+BaseEXP=270
+EffortPoints=3,0,0,0,0,0
 Ability=AURABREAK,POWERCONSTRUCT
-Weight=
-BaseEXP=
+Moves=1,DRAGONDANCE,1,EXTREMESPEED,1,THOUSANDWAVES,1,THOUSANDARROWS,1,COREENFORCER,1,GLARE,1,BULLDOZE,1,DRAGONBREATH,1,BITE,5,SAFEGUARD,10,DIG,18,BIND,26,LANDSWRATH,35,SANDSTORM,44,HAZE,51,CRUNCH,55,EARTHQUAKE,59,CAMOFLAGE,63,DRAGONPULSE,72,COIL,80,OUTRAGE
+Weight=33.5
+FormName=Zygarde 10
 
 [ZYGARDE-2]
-Zygarde Complete
 Type1=GROUND
 Type2=DRAGON
-EVYield=
 BaseStats=216,100,121,85,91,95
+BaseEXP=270
+EffortPoints=3,0,0,0,0,0
 Ability=POWERCONSTRUCT
-Weight=
-BaseEXP=
+Moves=1,DRAGONDANCE,1,EXTREMESPEED,1,THOUSANDWAVES,1,THOUSANDARROWS,1,COREENFORCER,1,GLARE,1,BULLDOZE,1,DRAGONBREATH,1,BITE,5,SAFEGUARD,10,DIG,18,BIND,26,LANDSWRATH,35,SANDSTORM,44,HAZE,51,CRUNCH,55,EARTHQUAKE,59,CAMOFLAGE,63,DRAGONPULSE,72,COIL,80,OUTRAGE
+Weight=610.0
+FormName=Zygarde Complete
 
 [GRENINJA-1]
-Ash Greninja
 Type1=WATER
 Type2=DARK
-EVYield=
 BaseStats=72,145,67,132,153,71
+BaseEXP=239
+EffortPoints=0,0,0,3,0,0
 Ability=BATTLEBOND
-Weight=
-BaseEXP=
+Weight=40.0
+FormName=Ash Greninja
 
 [LYCANROC-1]
-Lycanroc Midnight
 Type1=ROCK
-EVYield=0,2,0,0,0,0
 BaseStats=85,115,75,82,55,75
+BaseEXP=170
+EffortPoints=0,2,0,0,0,0
 Ability=KEENEYE,VITALSPIRIT
 Hidden Ability=NOGUARD
+Moves=1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
 Weight=25.0
-BaseEXP=170
-MoveSet=1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+FormName=Lycanroc Midnight
 
 [LYCANROC-2]
-Lycanroc Dusk
 Type1=Rock
-Type2=
-EVYield=0,2,0,0,0,0
-BaseStats=
+BaseStats=75,117,65,110,55,65
+BaseEXP=170
+EffortPoints=0,2,0,0,0,0
 Ability=TOUGHCLAWS
 Weight=25.0
-BaseEXP=170
-MoveSet=
+Moves=1,THRASH,1,ACCELROCK,1,BITE,1,COUNTER,1,LEER,1,SANDATTACK,1,TACKLE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+FormName=Lycanroc Dusk
 
 [RATTATA-1]
-Alolan Rattata
 Type1=DARK
 Type2=NORMAL
-EVYield=
 BaseStats=30,56,35,72,25,35
-Ability=
-Weight=
-BaseEXP=
-MoveSet=
+BaseEXP=51
+EffortPoints=0,0,0,1,0,0
+Ability=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+Weight=3.8
+FormName=Alolan Rattata
 
 [RATICATE-1]
-Alolan Raticate
 Type1=DARK
 Type2=NORMAL
-EVYield=
 BaseStats=75,71,70,77,40,80
-Ability=
-Weight=
-BaseEXP=
-MoveSet=
-
+BaseEXP=145
+EffortPoints=0,0,0,2,0,0
+Ability=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+Weight=25.5
+FormName=Alolan Raticate
 
 Alolan Raichu
 Type1=ELECTRIC
@@ -435,7 +435,7 @@ Ability=THICKFAT
 Weight=
 BaseEXP=
 
-	
+[CHARIZARD-1]	
 Mega Charizard X
 Type1=FIRE
 Type2=DRAGON
@@ -445,7 +445,7 @@ Ability=TOUGHCLAWS
 Weight=
 BaseEXP=
 
-	
+[CHARIZARD-2]	
 Mega Charizard Y
 Type1=FIRE
 Type2=FLYING

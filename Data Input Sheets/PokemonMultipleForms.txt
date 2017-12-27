@@ -1,4 +1,13 @@
-﻿[BASCULIN-1]
+﻿[KELDEO-1]
+Type1=
+Type2=
+BaseStats=
+BaseEXP=
+EffortPoints=
+Weight=
+FormName=
+
+[BASCULIN-1]
 FormName=Red Striped
 
 [SHELLOS-1]
@@ -54,7 +63,6 @@ Weight=325.0
 FormName=Black Kyurem
 
 [KYUREM-2]
-White Kyruem
 Type1=DRAGON
 Type2=ICE
 BaseStats=125,120,90,95,170,100

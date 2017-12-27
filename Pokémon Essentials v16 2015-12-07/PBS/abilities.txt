@@ -236,3 +236,4 @@
 236,TOXICITY,Toxicity,“All opposing pokemon become poisoned when entering battle.”
 237,POWERSWITCH,Power Switch,“When hit the Attack and Special Attack values switch with the Defense and Special Defense values.”
 238,FINISHER,Finisher,“If opponents Hit points are under 50%, attack power is 1.3 times stronger.”
+239,NEUROFORCE,Neuroforce, “All Super Effective Attacks get a 1.5 damage multiplier.”

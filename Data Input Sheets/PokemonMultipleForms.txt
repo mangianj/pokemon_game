@@ -280,27 +280,27 @@ HiddenAbility=THICKFAT
 Weight=25.5
 FormName=Alolan Raticate
 
-Alolan Raichu
+[RAICHU-1]
 Type1=ELECTRIC
 Type2=PSYCHIC
-EVYield=
 BaseStats=60,85,50,110,95,85
+BaseEXP=218
+EffortPoints=0,0,0,3,0,0
 Ability=SURGESURFER
-Weight=
-BaseEXP=
-MoveSet=
+Weight=21.0
+Moves=1,PSYCHIC,1,SPEEDSWAP,1,THUNDERSHOCK,1,TAILWHIP,1,QUICKATTACK,1,THUNDERBOLT
+FormName=Alolan Raichu
 
-
-Alolan Sandshrew
+[SANDSHREW-1]
 Type1=ICE
 Type2=STEEL
-EVYield=
 BaseStats=80,75,90,40,10,35
+BaseEXP=
+EffortPoints=
 Ability=SNOWCLOAK,SLUSHRUSH
 Weight=
-BaseEXP=
-MoveSet=
-
+Moves=
+FormName=Alolan Sandshrew
 
 Alolan Sandslash
 Type1=ICE

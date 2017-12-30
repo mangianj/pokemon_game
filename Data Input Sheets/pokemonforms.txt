@@ -328,29 +328,31 @@ Weight=19.9
 BaseEXP=177
 Moves=1,DAZZLINGGLEAM,1,IMPRISON,1,NASTYPLOT,1,ICEBEAM,1,ICESHARD,1,CONFUSERAY,1,SAFEGUARD
 
-
-Alolan Diglett
+[DIGLETT-1]
+FormName=Alolan Diglett
 Type1=GROUND
 Type2=STEEL
-EVYield=
-BaseStats=10,55,3,90,35,45
-Ability=
-Weight=
-BaseEXP=
-MoveSet=
+EffortPoints=0,1,0,0,0,0
+BaseStats=10,55,30,90,35,45
+Ability=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Weight=1.0
+BaseEXP=53
+Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,28,EARTHPOWER,31,DIG,35,IRONHEAD,39,EARTHQUAKE,43,FISSURE
 
-
-Alolan Dugtrio
+[DUGTRIO-1]
+FormName=Alolan Dugtrio
 Type1=GROUND
 Type2=STEEL
-EVYield=
+EffortPoints=0,2,0,0,0,0
 BaseStats=35,100,60,110,50,70
-Ability=
-Weight=
-BaseEXP=
-MoveSet=
+Ability=SANDVEIL,TANGLINGHAIR
+HiddenAbilty=SANDFORCE
+Weight=66.6
+BaseEXP=149
+Moves=1,SANDTOMB,1,ROTOTILLER,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,1,GROWL,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,30,EARTHPOWER,35,DIG,41,IRONHEAD,47,EARTHQUAKE,53,FISSURE
 
-
+[MEOWTH-1]
 Alolan Meowth
 Type1=DARK
 EVYield=
@@ -360,7 +362,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[PERISAN-1]
 Alolan Persian
 Type1=DARK
 EVYield=
@@ -370,7 +372,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[GEODUDE-1]
 Alolan Geodude
 Type1=ROCK
 Type2=ELECTRIC
@@ -381,7 +383,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[GRAVELER-1]
 Alolan Graveler
 Type1=ROCK
 Type2=ELECTRIC
@@ -392,7 +394,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[GOLEM-1]
 Alolan Golem
 Type1=ROCK
 Type2=ELECTRIC
@@ -403,7 +405,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[GRIMER-1]
 Alolan Grimer
 Type1=POISON
 Type2=DARK
@@ -414,7 +416,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[MUK-1]
 Alolan Muk
 Type1=POISON
 Type2=DARK
@@ -425,7 +427,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[EXEGGUTOR-1]
 Alolan Exeggutor
 Type1=GRASS
 Type2=DRAGON
@@ -436,7 +438,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[MAROWAK-1]
 Alolan Marowak
 Type1=FIRE
 Type2=GHOST
@@ -447,7 +449,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[VENUSAUR-1]
 Mega Venusaur
 Type1=GRASS
 Type2=POISON
@@ -477,7 +479,7 @@ Ability=DROUGHT
 Weight=
 BaseEXP=
 
-	
+[BLASTOISE-1]	
 Mega Blastoise
 Type1=WATER
 EVYield=
@@ -486,7 +488,7 @@ Ability=MEGALAUNCHER
 Weight=
 BaseEXP=
 
-	
+[BEEDRILL-1]	
 Mega Beedrill	
 Type1=BUG
 Type2=POISON
@@ -496,7 +498,7 @@ Ability=ADAPTABILITY
 Weight=
 BaseEXP=
 
-
+[PIDGEOT-1]
 Mega Pidgeot
 Type1=NORMAL
 Type2=FLYING
@@ -506,7 +508,7 @@ Ability=NOGUARD
 Weight=
 BaseEXP=
 
-	
+[ALAKAZAM-1]	
 Mega Alakazam
 Type1=PSYCHIC
 EVYield=
@@ -515,7 +517,7 @@ Ability=TRACE
 Weight=
 BaseEXP=
 
-
+[SLOWBRO-1]
 Mega Slowbro
 Type1=WATER
 Type2=PSYCHIC
@@ -525,7 +527,7 @@ Ability=SHELLARMOR
 Weight=
 BaseEXP=
 
-	
+[GENGAR-1]	
 Mega Gengar	
 Type1=GHOST
 Type2=POISON
@@ -535,7 +537,7 @@ Ability=SHADOWTAG
 Weight=
 BaseEXP=
 
-
+[KANGASKHAN-1]
 Mega Kangaskhan	
 Type1=NORMAL
 EVYield=
@@ -544,7 +546,7 @@ Ability=PARENTALBOND
 Weight=
 BaseEXP=
 
-
+[PINSIR-1]
 Mega Pinsir	
 Type1=BUG
 Type2=FLYING
@@ -554,7 +556,7 @@ Ability=AERIALATE
 Weight=
 BaseEXP=
 
-
+[GYARADOS-1]
 Mega Gyarados	
 Type1=WATER
 Type2=DARK
@@ -564,7 +566,7 @@ Ability=MOLDBREAKER
 Weight=
 BaseEXP=
 
-
+[AERODACTYL-1]
 Mega Aerodactyl	
 Type1=ROCK
 Type2=FLYING
@@ -574,7 +576,7 @@ Ability=TOUGHCLAWS
 Weight=
 BaseEXP=
 
-
+[MEWTWO-1]
 Mega Mewtwo X
 Type1=PSYCHIC
 Type2=FIGHTING
@@ -584,7 +586,7 @@ Ability=STEADFAST
 Weight=
 BaseEXP=
 
-	
+[MEWTWO-2]	
 Mega Mewtwo Y	
 Type1=PSYCHIC
 EVYield=
@@ -593,7 +595,7 @@ Ability=INSOMNIA
 Weight=
 BaseEXP=
 
-
+[AMPHAROS-1]
 Mega Ampharos
 Type1=ELECTRIC
 Type2=DRAGON
@@ -603,7 +605,7 @@ Ability=MOLDBREAKER
 Weight=
 BaseEXP=
 	
-
+[STEELIX-1]
 Mega Steelix
 Type1=STEEL
 Type2=GROUND
@@ -613,7 +615,7 @@ Ability=SANDFORCE
 Weight=
 BaseEXP=
 	
-
+[SCIZOR-1]
 Mega Scizor
 Type1=BUG
 Type2=STEEL
@@ -623,7 +625,7 @@ Ability=TECHNICIAN
 Weight=
 BaseEXP=
 
-	
+[HERACROSS-1]	
 Mega Heracross
 Type1=BUG
 Type2=FIGHT
@@ -633,7 +635,7 @@ Ability=SKILLLINK
 Weight=
 BaseEXP=
 
-	
+[HOUNDOOM-1]	
 Mega Houndoom
 Type1=DARK
 Type2=FIRE
@@ -643,7 +645,7 @@ Ability=SOLARPOWER
 Weight=
 BaseEXP=
 
-	
+[TYRANITAR-1]	
 Mega Tyranitar
 Type1=ROCK
 Type2=DARK
@@ -653,7 +655,7 @@ Ability=SANDSTREAM
 Weight=
 BaseEXP=
 
-	
+[SCEPTILE-1]	
 Mega Sceptile
 Type1=GRASS
 Type2=DRAGON
@@ -663,7 +665,7 @@ Ability=LIGHTNINGROD
 Weight=
 BaseEXP=
 
-	
+[BLAZEKIN-1]	
 Mega Blaziken
 Type1=FIRE
 Type2=FIGHTING
@@ -673,7 +675,7 @@ Ability=SPEEDBOOST
 Weight=
 BaseEXP=
 
-	
+[SWAMPERT-1]	
 Mega Swampert
 Type1=WATER
 Type2=GROUND
@@ -683,7 +685,7 @@ Ability=SWIFTSWIM
 Weight=
 BaseEXP=
 	
-
+[GARDEVOIR-1]
 Mega Gardevoir
 Type1=PSYCHIC
 Type2=FAIRY
@@ -693,7 +695,7 @@ Ability=PIXILATE
 Weight=
 BaseEXP=
 
-	
+[SABLEYE-1]	
 Mega Sableye
 Type1=DARK
 Type2=GHOST
@@ -703,7 +705,7 @@ Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
 
-	
+[MAWILE-1]	
 Mega Mawile
 Type1=STEEL
 Type2=FAIRY
@@ -713,7 +715,7 @@ Ability=HUGEPOWER
 Weight=
 BaseEXP=
 
-	
+[AGGRON-1]	
 Mega Aggron
 Type1=STEEL
 EVYield=
@@ -722,7 +724,7 @@ Ability=FILTER
 Weight=
 BaseEXP=
 
-	
+[MEDICHAM-1]	
 Mega Medicham
 Type1=FIGHT
 Type2=PSYCHIC
@@ -732,7 +734,7 @@ Ability=PUREPOWER
 Weight=
 BaseEXP=
 
-	
+[MANECTRIC-1]	
 Mega Manectric
 Type1=ELECTRIC
 EVYield=
@@ -741,7 +743,7 @@ Ability=INTIMIDATE
 Weight=
 BaseEXP=
 
-	
+[SHARPEDO-1]	
 Mega Sharpedo
 Type1=WATER
 Type2=DARK
@@ -751,7 +753,7 @@ Ability=STRONGJAW
 Weight=
 BaseEXP=
 
-	
+[CAMERUPT-1]	
 Mega Camerupt
 Type1=FIRE
 Type2=GROUND
@@ -761,7 +763,7 @@ Ability=SHEERFORCE
 Weight=
 BaseEXP=
 
-	
+[ALTARIA-1]	
 Mega Altaria
 Type1=DRAGON
 Type2=FAIRY
@@ -771,7 +773,7 @@ Ability=PIXILATE
 Weight=
 BaseEXP=
 
-	
+[BANETTE-1]	
 Mega Banette
 Type1=GHOST
 EVYield=
@@ -780,7 +782,7 @@ Ability=PRANKSTER
 Weight=
 BaseEXP=
 
-	
+[ABSOL-1]	
 Mega Absol
 Type1=DARK
 EVYield=
@@ -789,7 +791,7 @@ Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
 
-	
+[GLALIE-1]	
 Mega Glalie
 Type1=ICE
 EVYield=
@@ -798,7 +800,7 @@ Ability=REFRIGERATE
 Weight=
 BaseEXP=
 
-	
+[SALAMENCE-1]	
 Mega Salamence
 Type1=DRAGON
 Type2=FLYING
@@ -808,7 +810,7 @@ Ability=AERIALTE
 Weight=
 BaseEXP=
 	
-
+[METAGROSS-1]
 Mega Metagross	
 Type1=STEEL
 Type2=PSYCHIC
@@ -818,7 +820,7 @@ Ability=TOUGHCLAWS
 Weight=
 BaseEXP=
 
-
+[LATIAS-1]
 Mega Latias	
 Type1=DRAGON
 Type2=PSYCHIC
@@ -828,7 +830,7 @@ Ability=LEVITATE
 Weight=
 BaseEXP=
 
-
+[LATIOS-1]
 Mega Latios
 Type1=DRAGON
 Type2=PSYCHIC
@@ -838,7 +840,7 @@ Ability=LEVITATE
 Weight=
 BaseEXP=
 
-	
+[RAYQUAZA-1]	
 Mega Rayquaza
 Type1=DRAGON
 Type2=FLYING
@@ -848,7 +850,7 @@ Ability=DELTASTREAM
 Weight=
 BaseEXP=
 
-	
+[LOPUNNY-1]	
 Mega Lopunny	
 Type1=NORMAL
 Type2=FIGHTING
@@ -858,7 +860,7 @@ Ability=SCRAPPY
 Weight=
 BaseEXP=
 
-
+[GARCHOMP-1]
 Mega Garchomp
 Type1=DRAGON
 Type2=GROUND
@@ -868,7 +870,7 @@ Ability=SANDFORCE
 Weight=
 BaseEXP=
 
-	
+[LUCARIO-1]	
 Mega Lucario	
 Type1=FIGHT
 Type2=STEEL
@@ -878,7 +880,7 @@ Ability=ADAPTABILITY
 Weight=
 BaseEXP=
 
-
+[ABOMASNOW-1]
 Mega Abomasnow
 Type1=GRASS
 Type2=ICE
@@ -888,7 +890,7 @@ Ability=SNOWWARNING
 Weight=
 BaseEXP=
 
-	
+[GALLADE-1]	
 Mega Gallade
 Type1=PSYCHIC
 Type2=FIGHTING
@@ -898,7 +900,7 @@ Ability=INNERFOCUS
 Weight=
 BaseEXP=
 
-	
+[AUDINO-1]	
 Mega Audino
 Type1=NORMAL
 Type2=FAIRY
@@ -908,7 +910,7 @@ Ability=HEALER
 Weight=
 BaseEXP=
 
-	
+[DIANCIE-1]	
 Mega Diancie
 Type1=ROCK
 Type2=FAIRY
@@ -918,7 +920,7 @@ Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
 
-	
+[KYOGRE-1]	
 Alpha Kyogre
 Type1=WATER
 EVYield=
@@ -927,7 +929,7 @@ Ability=PRIMORDIALSEA
 Weight=
 BaseEXP=
 
-	
+[GROUDON-1]	
 Omega Groudon
 Type1=GROUND
 Type2=FIRE
@@ -937,7 +939,7 @@ Ability=DESOLATELAND
 Weight=
 BaseEXP=
 
-
+[PYROAR-1]
 Pyroar_F
 Type1=
 Type2=
@@ -947,7 +949,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[FLOETTE-1]
 Eternal Floette
 Type1=FAIRY
 EVYield=0,0,0,0,0,4
@@ -957,7 +959,7 @@ Weight=.9
 BaseEXP=243
 MoveSet=
 
-
+[SILVALLY-1]
 Silvally Fire
 Type1=
 Type2=
@@ -967,7 +969,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-2]
 Silvally Water
 Type1=
 Type2=
@@ -977,7 +979,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-3]
 Silvally Electric
 Type1=
 Type2=
@@ -987,7 +989,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-4]
 Silvally Grass
 Type1=
 Type2=
@@ -997,7 +999,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-5]
 Silvally Ice
 Type1=
 Type2=
@@ -1007,7 +1009,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-6]
 Silvally Fighting
 Type1=
 Type2=
@@ -1017,7 +1019,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-7]
 Silvally Poison
 Type1=
 Type2=
@@ -1027,7 +1029,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-8]
 Silvally Ground
 Type1=
 Type2=
@@ -1037,7 +1039,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-9]
 Silvally Flying
 Type1=
 Type2=
@@ -1047,7 +1049,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-10]
 Silvally Psychic
 Type1=
 Type2=
@@ -1057,7 +1059,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-11]
 Silvally Bug
 Type1=
 Type2=
@@ -1067,7 +1069,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-12]
 Silvally Rock
 Type1=
 Type2=
@@ -1077,7 +1079,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-13]
 Silvally Ghost
 Type1=
 Type2=
@@ -1087,7 +1089,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-14]
 Silvally Dragon
 Type1=
 Type2=
@@ -1097,7 +1099,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-15]
 Silvally Dark
 Type1=
 Type2=
@@ -1107,7 +1109,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-16]
 Silvally Steel
 Type1=
 Type2=
@@ -1117,7 +1119,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[SILVALLY-17]
 Silvally Fairy
 Type1=
 Type2=
@@ -1127,7 +1129,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-1]
 Areceus Fire
 Type1=
 Type2=
@@ -1137,7 +1139,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-2]
 Arceus Water
 Type1=
 Type2=
@@ -1147,7 +1149,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-3]
 Arceus Electric
 Type1=
 Type2=
@@ -1157,7 +1159,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-4]
 Arceus Grass
 Type1=
 Type2=
@@ -1167,7 +1169,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-5]
 Arceus Ice
 Type1=
 Type2=
@@ -1177,7 +1179,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-6]
 Arceus Fighting
 Type1=
 Type2=
@@ -1187,7 +1189,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-7]
 Arceus Poison
 Type1=
 Type2=
@@ -1197,7 +1199,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-8]
 Arceus Ground
 Type1=
 Type2=
@@ -1207,7 +1209,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-9]
 Arceus Flying
 Type1=
 Type2=
@@ -1217,7 +1219,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-10]
 Arceus Psychic
 Type1=
 Type2=
@@ -1227,7 +1229,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-11]
 Arceus Bug
 Type1=
 Type2=
@@ -1237,7 +1239,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-12]
 Arceus Rock
 Type1=
 Type2=
@@ -1247,7 +1249,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-13]
 Arceus Ghost
 Type1=
 Type2=
@@ -1257,7 +1259,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-14]
 Arceus Dragon
 Type1=
 Type2=
@@ -1267,7 +1269,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[ARCEUS-15]
 Arceus Dark
 Type1=
 Type2=
@@ -1277,6 +1279,7 @@ Ability=
 Weight=
 BaseEXP=
 
+[ARCEUS-16]
 Arceus Steel
 Type1=
 Type2=
@@ -1286,7 +1289,8 @@ Ability=
 Weight=
 BaseEXP=
 
-Arceus Steel
+[ARCEUS-17]
+Arceus Fairy
 Type1=
 Type2=
 EVYield=
@@ -1305,12 +1309,14 @@ Weight=
 Moves=
 FormName=Meowstic Female
 
+[AEGISLASH-1]
 Aegislash Sword
 EVYield=0,2,0,0,1,0
 BaseStats=60,150,50,60,150,50
 Weight=53.0
 BaseEXP=234
 
+[HOOPA-1]
 Hoopa Unbound
 Type1=PSYCHIC
 Type2=DARK
@@ -1319,6 +1325,7 @@ BaseStats=80,160,60,80,170,130
 Weight=
 BaseEXP=
 
+[CHARIZARD-3]
 Mega Charizard Z
 Type1=DRAGON
 Type2=FLYING
@@ -1328,6 +1335,7 @@ Ability=SNIPER
 Weight=
 BaseEXP=250
 
+[FLYGON-1]
 Mega Flygon
 Type1=DRAGON
 Type2=BUG
@@ -1337,7 +1345,7 @@ Ability=ADAPTABILITY
 Weight=
 BaseEXP=250
 
-
+[SWANNA-1]
 Mega Swanna
 Type1=FAIRY
 Type2=FLYING
@@ -1347,7 +1355,7 @@ Ability=PIXILATE
 Weight=
 BaseEXP=250
 
-
+[EMOLGA-1]
 Mega Emolga
 Type1=ELECTRIC
 Type2=FLYING
@@ -1357,7 +1365,7 @@ Ability=STATIC
 Weight=
 BaseEXP=250
 
-
+[HAWLUCHA-1]
 Mega Hawlucha
 Type1=FIGHTING
 EVYield=
@@ -1366,7 +1374,7 @@ Ability=NOGUARD
 Weight=
 BaseEXP=250
 
-
+[NOIVERN-1]
 Mega Noivern
 Type1=FLYING
 Type2=DRAGON
@@ -1376,7 +1384,7 @@ Ability=SPEEDBOOST
 Weight=
 BaseEXP=250
 
-
+[BELLOSSOM-1]
 Mega Bellossom
 Type1=GRASS
 Type2=FAIRY
@@ -1386,7 +1394,7 @@ Ability=SOLARPOWER
 Weight=
 BaseEXP=250
 
-
+[GRANBULL-1]
 Mega Granbull
 Type1=FAIRY
 Type2=FIGHTING
@@ -1396,7 +1404,7 @@ Ability=STRONGJAW
 Weight=
 BaseEXP=250
 
-
+[URSARING-1]
 Mega Ursaring
 Type1=NORMAL
 Type2=FIGHTING
@@ -1406,7 +1414,7 @@ Ability=SCRAPPY
 Weight=
 BaseEXP=250
 
-
+[CASTFORM-1]
 Castform Sunny
 Type1=
 Type2=
@@ -1416,7 +1424,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[CASTFORM-2]
 Castform Rainy
 Type1=
 Type2=
@@ -1426,7 +1434,7 @@ Ability=
 Weight=
 BaseEXP=
 
-
+[CASTFORM-3]
 Castform Snowy
 Type1=
 Type2=
@@ -1484,13 +1492,14 @@ Moves=1,DARKPULSE,1,SPLASH,15,TACKLE,30,FLAIL
 FormName=Black Mask
 
 [MAGIKARP-11]
-Moves=1,SURF,1,SPLASH,15,TACKLE,30,FLAIL
+Moves=1,WATERSPOUT,1,SPLASH,15,TACKLE,30,FLAIL
 FormName=SaucyBlue
 
 [MAGIKARP-12]
 Moves=1,DRAGONRUSH,1,SPLASH,15,TACKLE,30,FLAIL
 FormName=Violet Raindrop
 
+[BUTTERFREE-1]
 Frostfree
 Type1=BUG
 Type2=ICE
@@ -1501,7 +1510,7 @@ Weight=
 BaseEXP=154
 MoveSet=10,BUGBUZZ,15,ICEBEAM,20,INFESTATION,25,MOONLIGHT
 
-
+[PIKACHU-1]
 Ash Pikachu
 Type1=ELECTRIC
 EVYield=
@@ -1511,7 +1520,7 @@ Weight=
 BaseEXP=300
 MoveSet=1,IRONTAIL,1,VOLTTACKLE,1,THUNDERBOLT,1,QUICKATTACK
 
-
+[RAPIDASH-1]
 Pegasus Rapidash
 Type1=FIRE
 Type2=FAIRY
@@ -1522,7 +1531,7 @@ Weight=
 BaseEXP=165
 MoveSet=1,FLAMETHROWER,1,MOONBLAST,1,AGILITY,1,AIRSLASH
 
-
+[AEGISLASH-2]
 Tiki Aegislash
 Type1=GHOST
 Type2=WATER
@@ -1533,7 +1542,10 @@ Weight=
 BaseEXP=165
 MoveSet=1,KINGSSHIELD,1,SACREDSWORD,1,AQUAJET,1,SHADOWSNEAK
 
+[AEGISLASH-3]
+Tiki Shield
 
+[AEGISLASH-4]
 Obsidian Aegislash
 Type1=GHOST
 Type2=FIRE
@@ -1544,7 +1556,10 @@ Weight=
 BaseEXP=165
 MoveSet=1,KINGSSHIELD,1,SHADOWCLAW,1,FLAREBLITZ,1,NIGHTSLASH
 
+[AEGISLASH-5]
+Obsidian Shield
 
+[AEGISLASH-6]
 Thor Aegislash
 Type1=STEEL
 Type2=ELECTRIC
@@ -1555,7 +1570,10 @@ Weight=
 BaseEXP=165
 MoveSet=1,KINGSSHIELD,1,IRONHEAD,1,WILDCHARGE,1,VOLTSWITCH
 
+[AEGISLASH-7]
+Thor Shield
 
+[AEGISLASH-8]
 Master Aegislash
 Type1=STEEL
 Type2=FAIRY
@@ -1566,8 +1584,11 @@ Weight=
 BaseEXP=165
 MoveSet=1,KINGSSHIELD,1,IRONHEAD,1,SACREDSWORD,1,PLAYROUGH
 
+[AEGISLASH-9]
+Master Shield
 
-Cruella Cincinno
+[CINCCINNO-1]
+Cruella Cinccinno
 Type1=NORMAL
 Type2=DARK
 EVYield=
@@ -1577,7 +1598,7 @@ Weight=
 BaseEXP=148
 MoveSet=1,ARMTHRUST,1,DOUBLESLAP,1,TAILSLAP,1,UMBERPUNCH
 
-
+[SALAMENCE-2]
 Dive Salamance
 Type1=DRAGON
 Type2=WATER
@@ -1588,7 +1609,17 @@ Weight=
 BaseEXP=224
 MoveSet=1,AQUATICSTRIKE,1,OUTRAGE,1,DRAGONDANCE,1,ICEFANG
 
+[SALAMENCE-3]
+Mega Dive Salamance
+Type1=DRAGON
+Type2=WATER
+EVYield=
+BaseStats=95,145,80,110,120,150
+Ability=SWIFTSWIM
+Weight=
+BaseEXP=224
 
+[VIVILLION-1]
 Black Vivillion
 Type1=BUG
 Type2=DARK
@@ -1599,6 +1630,7 @@ Weight=
 BaseEXP=143
 MoveSet=1,DARKPULSE,1,BUGBUZZ,1,KNOCKOFF,1,QUIVERDANCE
 
+[GOODRA-1]
 Sundra
 Type1=DRAGON
 Type2=FIRE
@@ -1609,6 +1641,7 @@ Weight=
 BaseEXP=219
 MoveSet=1,SOLARBEAM,1,FLAMETHROWER,1,DRAGONPULSE,1,SUNNYDAY
 
+[GUMSHOOS-1]
 Trumpshoos
 Type1=DARK
 Type2=FIGHT
@@ -1619,7 +1652,7 @@ Weight=
 BaseEXP=45
 MoveSet=1,BRUTALSWING,1,POWERUPPUNCH,1,MACHPUNCH,1,CRUNCH
 
-
+[CRABOMINABLE-1]
 Creedominable
 Type1=FIGHTING
 Type2=STEEL
@@ -1630,7 +1663,7 @@ Weight=
 BaseEXP=120
 MoveSet=1,BULLETPUNCH,1,DYNAMICPUNCH,1,DRAINPUNCH,1,COUNTER
 
-
+[ORICORIO-4]
 Hip Hop Oricorio
 Type1=WATER
 Type2=FLYING
@@ -1641,7 +1674,7 @@ Weight=
 BaseEXP=
 MoveSet=1,REVELATIONDANCE,1,WATERPULSE,1,AIRSLASH,1,HURRICANE
 
-
+[SALAZZLE-1]
 Salizzle
 Type1=POISON
 Type2=ROCK
@@ -1652,7 +1685,7 @@ Weight=
 BaseEXP=
 MoveSet=1,POISONJAB,1,ROCKSLIDE,1,TOXIC,1,ROCKPOLISH
 
-
+[DRAMPA-1]
 Dramma
 Type1=NORMAL
 Type2=DRAGON
@@ -1663,7 +1696,7 @@ Weight=
 BaseEXP=
 MoveSet=1,DRAGONPULSE,1,HYPERBEAM,1,EXTRASENSORY,1,PROTECT
 
-
+[STUNFISK-1]
 Shitfisk
 Type1=GROUND
 Type2=POISON
@@ -1674,7 +1707,7 @@ Weight=
 BaseEXP=69
 MoveSet=1,VENOMDRENCH,1,SLUDGEBOMB,1,THUNDERWAVE,1,EARTHPOWER
 
-
+[ORICORIO-1]
 Pom Pom Oricorio
 Type1=ELECTRIC
 Type2=FLYING
@@ -1685,7 +1718,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[ORICORIO-2]
 Sensu Oricorio
 Type1=GHOST
 Type2=FLYING
@@ -1696,7 +1729,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[ORICORIO-3]
 Pauu Oricorio
 Type1=PSYCHIC
 Type2=FLYING
@@ -1707,7 +1740,7 @@ Weight=
 BaseEXP=
 MoveSet=
 
-
+[LARVITAR-1]
 Larviturnt
 Type1=DARK
 EVYield=
@@ -1716,8 +1749,9 @@ Ability=INTIMIDATE
 Weight=
 BaseEXP= 
 MoveSet=1,BITE,1,SUNNYDAY,10,SCREECH,14,VINEWHIP,19,BRUTALSWING,23,SCARYFACE,28,SUCKERPUNCH,32,DARKPULSE,41,CRUNCH,46,SOLARBLADE,50,FLAMETHROWER,55,SOLARBEAM
+Evolutions=
 
-
+[PUPITAR-1]
 Pupiturnt
 Type1=DARK
 EVYield=
@@ -1726,8 +1760,9 @@ Ability=INTIMIDATE
 Weight=
 BaseEXP=
 MoveSet=1,BITE,1,SUNNYDAY,10,SCREECH,14,VINEWHIP,19,BRUTALSWING,23,SCARYFACE,28,SUCKERPUNCH,32,DARKPULSE,47,CRUNCH,54,SOLARBLADE,60,FLAMETHROWER,67,SOLARBEAM
+Evolutions=
 
-
+[TYRANITAR-2]
 Turntitar
 Type1=DARK
 Type2=GRASS
@@ -1738,7 +1773,7 @@ Weight=
 BaseEXP=
 MoveSet=1,THUNDERFANG,1,FIREFANG,1,ICEFANG,1,BITE,1,SUNNYDAY,10,SCREECH,14,VINEWHIP,19,BRUTALSWING,23,SCARYFACE,28,SUCKERPUNCH,32,DARKPULSE,47,CRUNCH,54,SOLARBLADE,63,FLAMETHROWER,73,SOLARBEAM
 
-
+[TYRANITAR-3]
 Mega Turntitar
 Type1=DARK
 Type2=GRASS
@@ -1748,7 +1783,7 @@ Ability=THICKFAT
 Weight=
 BaseEXP=
 
-
+[PORYGON2-1]
 Corrupted Porygon
 Type1=PSYCHIC
 Type2=ELECTRIC
@@ -1759,7 +1794,7 @@ Weight=
 BaseEXP=
 MoveSet=1,ZAPCANNON,1,PSYCHIC,1,FIREWALL,1,RECOVER
 
-
+[ALTARIA-2]
 Thunder Altaria
 Type1=DRAGON
 Type2=THUNDER
@@ -1770,7 +1805,7 @@ Weight=
 BaseEXP=
 MoveSet=1,THUNDER,1,RAINDANCE,1,DRAGONPULSE,1,VOLTSWITCH
 
-
+[ALTARIA-3]
 Mega Thunder Altaria
 Type1=DRAGON
 Type2=ELECTRIC
@@ -1780,7 +1815,7 @@ Ability=REGENERATOR
 Weight=
 BaseEXP=
 
-
+[EMBOAR-1]
 Boarock
 Type1=FIRE
 Type2=ROCK
@@ -1791,7 +1826,7 @@ Weight=
 BaseEXP=
 MoveSet=1,SANDSTORM,1,STONEEDGE,1,FLAREBLITZ,1,HEADSMASH
 
-
+[WISHIWASHI-1]
 Wishiwashi School 
 Type1=WATER
 EVYield=
@@ -1800,7 +1835,7 @@ Ability=SCHOOLING
 Weight=
 BaseEXP=
 
-
+[SOLGALEO-1]
 Solgaleo Necro
 Type1=PSYCHIC
 Type2=STEEL
@@ -1810,7 +1845,7 @@ Ability=PRISMARMOR
 Weight=
 BaseEXP=
 
-
+[LUNALA-1]
 Lunala Necro
 Type1=PSYCHIC
 Type2=GHOST
@@ -1820,7 +1855,7 @@ Ability=PRISMARMOR
 Weight=
 BaseEXP=
 
-
+[GOKRUNCH-1]
 Mega Gokrunch
 Type1=Fairy
 EVYield=
@@ -1829,7 +1864,7 @@ Ability=IRONFIST
 Weight=
 BaseEXP=
 
-
+[MINIOR-1]
 Minior Shields Down
 Type1=ROCK
 Type2=FLYING
@@ -1839,7 +1874,7 @@ Ability=SHIELDSDOWN
 Weight=.3
 BaseEXP=154
 
-
+[LUCARIO-2]
 Darkario
 Type1=DARK
 EVYield=0,0,0,0,2,0
@@ -1849,7 +1884,7 @@ Weight=54.0
 BaseEXP=184
 MoveSet=1,EVILAURA,1,LASERFOCUS,1,QUICKATTACK,1,BITE,6,COUNTER,11,FAINTATTACK,15,POWERUPPUNCH,19,NASTYPLOT,24,SCREECH,29,SUCKERPUNCH,33,PROTECT,37,MEFIRST,42,DRAGONDANCE,47,AGILITY,51,DARKPULSE,55,SHADOWBALL,60,PSYCHIC,65,EXTREMESPEED
 
-
+[LUCARIO-3]
 Mega Darkario
 Type1=DARK
 EVYield=0,0,0,0,3,0

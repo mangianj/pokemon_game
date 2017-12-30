@@ -22229,7 +22229,7 @@ Kind=Shell Lizard
 Pokedex=As the inner lizard grows heat began to eminate from its shell creating steam.
 Evolutions=SHELLGAR,Level,55
 [834]
-Name=Sheallgar
+Name=Shellgar
 InternalName=SHELLGAR
 Type1=WATER
 Type2=FIRE

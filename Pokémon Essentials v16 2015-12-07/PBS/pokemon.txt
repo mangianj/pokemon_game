@@ -23244,7 +23244,7 @@ EffortPoints=0,0,2,0,0,2
 Rareness=20
 Happiness=0
 Abilities=PRESSURE
-Moves=1,SKYATTACK,5,HIDDENPOWER,10,STEALTHROCK,20,WATERGUN,30,BIND,40,PAYDAY,50,BATONPASS,60,TOXICSPIKES,70,CALMMIND,80,ROOST,90,TOXIC,100,HYPERBEAM
+Moves=1,SKYATTACK,5,HIDDENPOWER,10,STEALTHROCK,20,WATERGUN,30,BIND,40,PAYDAY,50,BATONPASS,60,TOXICSPIKES,70,GEOMANCY,80,ROOST,90,TOXIC,100,HYPERBEAM
 Compatibility=Undiscovered
 StepsToHatch=100000
 Height=1.0
@@ -23422,7 +23422,7 @@ Kind=Thunderboom
 Pokedex=Baboom causes small electrical storms by beating the ground with its fists.  It is extremely aggressive.
 Evolutions=
 [884]
-Name=Dragonmite
+Name=Dragomite
 InternalName=DRAGOMITE
 Type1=DRAGON
 Type2=WATER

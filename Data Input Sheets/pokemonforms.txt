@@ -426,7 +426,7 @@ Moves=1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,
 Alolan Muk
 Type1=POISON
 Type2=DARK
-EVYield=1,1,0,0,0,0
+EffortPoints=1,1,0,0,0,0
 BaseStats=105,105,75,50,65,100
 Ability=POISONTOUCH,GLUTTONY
 HiddenAbility=POWEROFALCHEMY
@@ -438,7 +438,7 @@ Moves=1,VENOMDRENCH,1,POUND,1,POISONGAS,1,HARDEN,1,BITE,4,HARDEN,7,BITE,12,DISAB
 FormName=Alolan Exeggutor
 Type1=GRASS
 Type2=DRAGON
-EVYield=0,2,0,0,0,0
+EffortPoints=0,2,0,0,0,0
 BaseStats=95,105,85,45,125,75
 Ability=FRISK,HARVEST
 Weight=415.6
@@ -449,7 +449,7 @@ Moves=1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,
 FormName=Alolan Marowak
 Type1=FIRE
 Type2=GHOST
-EVYield=0,0,2,0,0,0
+EffortPoints=0,0,2,0,0,0
 BaseStats=60,80,110,45,50,80
 Ability=CURSEDBODY,LIGHTNINGROD
 HiddenAbility=ROCKHEAD
@@ -458,150 +458,195 @@ BaseEXP=149
 Moves=1,GROWL,1,TAILWHIP,1,BONECLUB,1,FLAMEWHEEL,3,TAILWHIP,7,BONECLUB,11,FLAMEWHEEL,13,LEER,17,HEX,21,BONEMERANG,23,WILLOWISP,27,SHADOWBONE,33,THRASH,37,FLING,43,STOMPINGTANTRUM,49,ENDEAVOR,53,FLAREBLITZ,59,RETALIATE,65,BONERUSH
 
 [VENUSAUR-1]
-Mega Venusaur
+FormName=Mega Venusaur
 Type1=GRASS
 Type2=POISON
-EVYield=
+EffortPoints=0,0,0,0,2,1
 BaseStats=80,100,123,80,122,120
 Ability=THICKFAT
-Weight=
-BaseEXP=
+Weight=155.5
+BaseEXP=281
+MegaStone=VENUSAURITE
+UnmegaForm=0
+MegaMessage=0
 
 [CHARIZARD-1]	
-Mega Charizard X
+FormName=Mega Charizard X
 Type1=FIRE
 Type2=DRAGON
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=78,130,111,100,130,85
 Ability=TOUGHCLAWS
-Weight=
-BaseEXP=
+Weight=110.5
+BaseEXP=285
+MegaStone=CHARIZARDITEX
+UnmegaForm=0
+MegaMessage=0
 
 [CHARIZARD-2]	
-Mega Charizard Y
+FormName=Mega Charizard Y
 Type1=FIRE
 Type2=FLYING
-EVYield=
-BaseStats=78,104,78.100,159,115
+EffortPoints=0,0,0,0,3,0
+BaseStats=78,104,78,100,159,115
 Ability=DROUGHT
-Weight=
-BaseEXP=
+Weight=100.5
+BaseEXP=285
+MegaStone=CHARIZARDITEY
+UnmegaForm=0
+MegaMessage=0
 
 [BLASTOISE-1]	
-Mega Blastoise
+FormName=Mega Blastoise
 Type1=WATER
-EVYield=
+EffortPoints=0,0,0,0,0,3
 BaseStats=79,103,120,78,135,115
 Ability=MEGALAUNCHER
-Weight=
-BaseEXP=
+Weight=101.1
+BaseEXP=284
+MegaStone=BLASTOISITE
+UnmegaForm=0
+MegaMessage=0
 
 [BEEDRILL-1]	
-Mega Beedrill	
+FormName=Mega Beedrill	
 Type1=BUG
 Type2=POISON
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=65,150,40,145,15,80
 Ability=ADAPTABILITY
-Weight=
-BaseEXP=
+Weight=40.5
+BaseEXP=223
+MegaStone=BEEDRILLITE
+UnmegaForm=0
+MegaMessage=0
 
 [PIDGEOT-1]
-Mega Pidgeot
+FormName=Mega Pidgeot
 Type1=NORMAL
 Type2=FLYING
-EVYield=
+EffortPoints=0,0,0,3,0,0
 BaseStats=83,80,80,121,135,80
 Ability=NOGUARD
-Weight=
-BaseEXP=
+Weight=50.5
+BaseEXP=261
+MegaStone=PIDGEOTITE
+UnmegaForm=0
+MegaMessage=0
 
 [ALAKAZAM-1]	
-Mega Alakazam
+FormName=Mega Alakazam
 Type1=PSYCHIC
-EVYield=
+EffortPoints=0,0,0,0,3,0
 BaseStats=55,50,65,150,95,175
 Ability=TRACE
-Weight=
-BaseEXP=
+Weight=48.0
+BaseEXP=266
+MegaStone=ALAKAZITE
+UnmegaForm=0
+MegaMessage=0
 
 [SLOWBRO-1]
-Mega Slowbro
+FormName=Mega Slowbro
 Type1=WATER
 Type2=PSYCHIC
-EVYield=
+EffortPoints=0,0,3,0,0,0
 BaseStats=95,75,180,30,130,80
 Ability=SHELLARMOR
-Weight=
-BaseEXP=
+Weight=120.0
+BaseEXP=207
+MegaStone=SLOWBROITE
+UnmegaForm=0
+MegaMessage=0
 
 [GENGAR-1]	
-Mega Gengar	
+FormName=Mega Gengar	
 Type1=GHOST
 Type2=POISON
-EVYield=
+EffortPoints=0,0,0,0,3,0
 BaseStats=60,65,80,130,170,95
 Ability=SHADOWTAG
-Weight=
-BaseEXP=
+Weight=40.5
+BaseEXP=270
+MegaStone=GENGARITE
+UnmegaForm=0
+MegaMessage=0
 
 [KANGASKHAN-1]
-Mega Kangaskhan	
+FormName=Mega Kangaskhan	
 Type1=NORMAL
-EVYield=
+EffortPoints=3,0,0,0,0,0
 BaseStats=105,125,100,100,60,100
 Ability=PARENTALBOND
-Weight=
-BaseEXP=
+Weight=100.0
+BaseEXP=207
+MegaStone=KANGASKHANITE
+UnmegaForm=0
+MegaMessage=0
 
 [PINSIR-1]
-Mega Pinsir	
+FormName=Mega Pinsir	
 Type1=BUG
 Type2=FLYING
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=65,155,120,105,60,90
 Ability=AERIALATE
-Weight=
-BaseEXP=
+Weight=59.0
+BaseEXP=210
+MegaStone=PINSIRITE
+UnmegaForm=0
+MegaMessage=0
 
 [GYARADOS-1]
-Mega Gyarados	
+FormName=Mega Gyarados	
 Type1=WATER
 Type2=DARK
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=95,155,109,81,70,130
 Ability=MOLDBREAKER
-Weight=
-BaseEXP=
+Weight=305.0
+BaseEXP=224
+MegaStone=GYARADOSITE
+UnmegaForm=0
+MegaMessage=0
 
 [AERODACTYL-1]
-Mega Aerodactyl	
+FormName=Mega Aerodactyl	
 Type1=ROCK
 Type2=FLYING
-EVYield=
+EffortPoints=0,0,0,3,0,0
 BaseStats=80,135,85,150,70,95
 Ability=TOUGHCLAWS
-Weight=
-BaseEXP=
+Weight=79.0
+BaseEXP=215
+MegaStone=AERODACTYLITE
+UnmegaForm=0
+MegaMessage=0
 
 [MEWTWO-1]
-Mega Mewtwo X
+FormName=Mega Mewtwo X
 Type1=PSYCHIC
 Type2=FIGHTING
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=106,190,100,130,154,100
 Ability=STEADFAST
-Weight=
-BaseEXP=
+Weight=127.0
+BaseEXP=351
+MegaStone=MEWTWONITEX
+UnmegaForm=0
+MegaMessage=0
 
 [MEWTWO-2]	
-Mega Mewtwo Y	
+FormName=Mega Mewtwo Y	
 Type1=PSYCHIC
-EVYield=
+EffortPoints=0,0,0,0,3,0
 BaseStats=106,150,70,140,194,120
 Ability=INSOMNIA
-Weight=
-BaseEXP=
+Weight=33.0
+BaseEXP=351
+MegaStone=MEWTWONITEY
+UnmegaForm=0
+MegaMessage=0
 
 [AMPHAROS-1]
 Mega Ampharos
@@ -612,6 +657,9 @@ BaseStats=90,95,105,45,165,110
 Ability=MOLDBREAKER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 	
 [STEELIX-1]
 Mega Steelix

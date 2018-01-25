@@ -649,47 +649,56 @@ UnmegaForm=0
 MegaMessage=0
 
 [AMPHAROS-1]
-Mega Ampharos
+FormName=Mega Ampharos
 Type1=ELECTRIC
 Type2=DRAGON
-EVYield=
+EffortPoints=0,0,0,0,3,0
 BaseStats=90,95,105,45,165,110
 Ability=MOLDBREAKER
-Weight=
-BaseEXP=
-MegaStone=
+Weight=61.5
+BaseEXP=230
+MegaStone=AMPHAROSITE
 UnmegaForm=0
 MegaMessage=0
 	
 [STEELIX-1]
-Mega Steelix
+FormName=Mega Steelix
 Type1=STEEL
 Type2=GROUND
-EVYield=
+EffortPoints=0,0,3,0,0,0
 BaseStats=75,125,230,30,55,95
 Ability=SANDFORCE
-Weight=
-BaseEXP=
+Weight=740.0
+BaseEXP=179
+MegaStone=STEELIXITE
+UnmegaForm=0
+MegaMessage=0
 	
 [SCIZOR-1]
-Mega Scizor
+FormName=Mega Scizor
 Type1=BUG
 Type2=STEEL
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=70,150,140,75,65,100
 Ability=TECHNICIAN
-Weight=
-BaseEXP=
+Weight=125.0
+BaseEXP=175
+MegaStone=SCIZORITE
+UnmegaForm=0
+MegaMessage=0
 
 [HERACROSS-1]	
-Mega Heracross
+FormName=Mega Heracross
 Type1=BUG
 Type2=FIGHT
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=80,185,115,75,40,105
 Ability=SKILLLINK
-Weight=
-BaseEXP=
+Weight=62.5
+BaseEXP=175
+MegaStone=HERACRONITE
+UnmegaForm=0
+MegaMessage=0
 
 [HOUNDOOM-1]	
 Mega Houndoom
@@ -700,6 +709,9 @@ BaseStats=75,90,90,115,140,90
 Ability=SOLARPOWER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [TYRANITAR-1]	
 Mega Tyranitar

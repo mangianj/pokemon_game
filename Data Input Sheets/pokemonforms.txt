@@ -701,37 +701,43 @@ UnmegaForm=0
 MegaMessage=0
 
 [HOUNDOOM-1]	
-Mega Houndoom
+FormName=Mega Houndoom
 Type1=DARK
 Type2=FIRE
-EVYield=
+EffortPoints=0,0,0,0,3,0
 BaseStats=75,90,90,115,140,90
 Ability=SOLARPOWER
-Weight=
-BaseEXP=
-MegaStone=
+Weight=49.5
+BaseEXP=175
+MegaStone=HOUNDOOMITE
 UnmegaForm=0
 MegaMessage=0
 
 [TYRANITAR-1]	
-Mega Tyranitar
+FormName=Mega Tyranitar
 Type1=ROCK
 Type2=DARK
-EVYield=
+EffortPoints=0,3,0,0,0,0
 BaseStats=100,164,150,71,95,120
 Ability=SANDSTREAM
-Weight=
-BaseEXP=
+Weight=255.0
+BaseEXP=270
+MegaStone=TYRANITARITE
+UnmegaForm=0
+MegaMessage=0
 
 [SCEPTILE-1]	
-Mega Sceptile
+FormName=Mega Sceptile
 Type1=GRASS
 Type2=DRAGON
-EVYield=
+EffortPoints=0,0,0,3,0,0
 BaseStats=70,110,75,145,145,85
 Ability=LIGHTNINGROD
-Weight=
-BaseEXP=
+Weight=55.2
+BaseEXP=239
+MegaStone=SCEPTILITE
+UnmegaForm=0
+MegaMessage=0
 
 [BLAZEKIN-1]	
 Mega Blaziken
@@ -742,6 +748,9 @@ BaseStats=80,160,80,100,130,80
 Ability=SPEEDBOOST
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [SWAMPERT-1]	
 Mega Swampert
@@ -752,6 +761,9 @@ BaseStats=100,150,110,70,95,110
 Ability=SWIFTSWIM
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 	
 [GARDEVOIR-1]
 Mega Gardevoir
@@ -762,6 +774,9 @@ BaseStats=68,85,65,100,165,135
 Ability=PIXILATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [SABLEYE-1]	
 Mega Sableye
@@ -772,6 +787,9 @@ BaseStats=50,85,125,20,85,115
 Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [MAWILE-1]	
 Mega Mawile
@@ -782,6 +800,9 @@ BaseStats=50,105,125,50,55,95
 Ability=HUGEPOWER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [AGGRON-1]	
 Mega Aggron
@@ -791,6 +812,9 @@ BaseStats=70,140,230,50,60,80
 Ability=FILTER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [MEDICHAM-1]	
 Mega Medicham
@@ -801,6 +825,9 @@ BaseStats=60,100,85,100,80,85
 Ability=PUREPOWER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [MANECTRIC-1]	
 Mega Manectric
@@ -810,6 +837,9 @@ BaseStats=70,75,80,135,135,80
 Ability=INTIMIDATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [SHARPEDO-1]	
 Mega Sharpedo
@@ -820,6 +850,9 @@ BaseStats=70,140,70,105,110,65
 Ability=STRONGJAW
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [CAMERUPT-1]	
 Mega Camerupt
@@ -830,6 +863,9 @@ BaseStats=70,120,100,20,145,105
 Ability=SHEERFORCE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [ALTARIA-1]	
 Mega Altaria
@@ -840,6 +876,9 @@ BaseStats=75,110,110,80,110,105
 Ability=PIXILATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [BANETTE-1]	
 Mega Banette
@@ -849,6 +888,9 @@ BaseStats=64,165,75,75,93,83
 Ability=PRANKSTER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [ABSOL-1]	
 Mega Absol
@@ -858,6 +900,9 @@ BaseStats=65,150,60,115,115,60
 Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GLALIE-1]	
 Mega Glalie
@@ -867,6 +912,9 @@ BaseStats=80,120,80,100,120,80
 Ability=REFRIGERATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [SALAMENCE-1]	
 Mega Salamence
@@ -877,6 +925,9 @@ BaseStats=85,145,130,120,120,90
 Ability=AERIALTE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 	
 [METAGROSS-1]
 Mega Metagross	
@@ -887,6 +938,9 @@ BaseStats=80,145,150,110,105,110
 Ability=TOUGHCLAWS
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [LATIAS-1]
 Mega Latias	
@@ -897,6 +951,9 @@ BaseStats=80,100,120,110,140,150
 Ability=LEVITATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [LATIOS-1]
 Mega Latios
@@ -907,6 +964,9 @@ BaseStats=80,130,100,110,160,120
 Ability=LEVITATE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [RAYQUAZA-1]	
 Mega Rayquaza
@@ -917,6 +977,9 @@ BaseStats=105,180,100,115,180,100
 Ability=DELTASTREAM
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [LOPUNNY-1]	
 Mega Lopunny	
@@ -927,6 +990,9 @@ BaseStats=65,136,94,135,54,96
 Ability=SCRAPPY
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GARCHOMP-1]
 Mega Garchomp
@@ -937,6 +1003,9 @@ BaseStats=108,170,115,92,120,95
 Ability=SANDFORCE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [LUCARIO-1]	
 Mega Lucario	
@@ -947,6 +1016,9 @@ BaseStats=70,145,88,112,140,70
 Ability=ADAPTABILITY
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [ABOMASNOW-1]
 Mega Abomasnow
@@ -957,6 +1029,9 @@ BaseStats=90,132,105,30,132,105
 Ability=SNOWWARNING
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GALLADE-1]	
 Mega Gallade
@@ -967,6 +1042,9 @@ BaseStats=68,165,95,110,65,115
 Ability=INNERFOCUS
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [AUDINO-1]	
 Mega Audino
@@ -977,6 +1055,9 @@ BaseStats=103,60,126,50,80,126
 Ability=HEALER
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [DIANCIE-1]	
 Mega Diancie
@@ -987,6 +1068,9 @@ BaseStats=50,160,110,110,160,110
 Ability=MAGICBOUNCE
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [KYOGRE-1]	
 Alpha Kyogre
@@ -996,6 +1080,9 @@ BaseStats=100,150,90,90,180,160
 Ability=PRIMORDIALSEA
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GROUDON-1]	
 Omega Groudon
@@ -1006,6 +1093,9 @@ BaseStats=100,180,160,90,150,90
 Ability=DESOLATELAND
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [PYROAR-1]
 Pyroar_F
@@ -1402,6 +1492,9 @@ BaseStats=78,80,70,100,160,56
 Ability=SNIPER
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [FLYGON-1]
 Mega Flygon
@@ -1412,6 +1505,9 @@ BaseStats=80,145,100,110,100,90
 Ability=ADAPTABILITY
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [SWANNA-1]
 Mega Swanna
@@ -1422,6 +1518,9 @@ BaseStats=75,106,79,115,106,79
 Ability=PIXILATE
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [EMOLGA-1]
 Mega Emolga
@@ -1432,6 +1531,9 @@ BaseStats=55,80,80,140,99,70
 Ability=STATIC
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [HAWLUCHA-1]
 Mega Hawlucha
@@ -1441,6 +1543,9 @@ BaseStats=78,118,80,101,75,130
 Ability=NOGUARD
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [NOIVERN-1]
 Mega Noivern
@@ -1451,6 +1556,9 @@ BaseStats=85,80,85,168,123,100
 Ability=SPEEDBOOST
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [BELLOSSOM-1]
 Mega Bellossom
@@ -1461,6 +1569,9 @@ BaseStats=75,105,110,70,125,110
 Ability=SOLARPOWER
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GRANBULL-1]
 Mega Granbull
@@ -1471,6 +1582,9 @@ BaseStats=90,150,90,75,65,75
 Ability=STRONGJAW
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [URSARING-1]
 Mega Ursaring
@@ -1481,6 +1595,9 @@ BaseStats=90,165,85,85,80,80
 Ability=SCRAPPY
 Weight=
 BaseEXP=250
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [CASTFORM-1]
 Castform Sunny
@@ -1686,6 +1803,9 @@ BaseStats=95,145,80,110,120,150
 Ability=SWIFTSWIM
 Weight=
 BaseEXP=224
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [VIVILLION-1]
 Black Vivillion
@@ -1850,6 +1970,9 @@ BaseStats=100,165,150,60,100,100
 Ability=THICKFAT
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [PORYGON2-1]
 Corrupted Porygon
@@ -1882,6 +2005,9 @@ BaseStats=75,100,115,70,130,100
 Ability=REGENERATOR
 Weight=
 BaseEXP=
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [EMBOAR-1]
 Boarock
@@ -1931,6 +2057,9 @@ BaseStats=100,150,80,120,75,90
 Ability=MOXIE
 Weight=175.0
 BaseEXP=350
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [GOKRUNCH-2]
 FormName=Virginia Gokrunch
@@ -1951,6 +2080,9 @@ BaseStats=100,75,80,120,150,90
 Ability=BESERK
 Weight=175.0
 BaseEXP=350
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [MINIOR-1]
 Minior Core
@@ -1980,6 +2112,9 @@ BaseStats=75,135,88,112,150,65
 Ability=ADAPTABILITY
 Weight=57.5
 BaseEXP=204
+MegaStone=
+UnmegaForm=0
+MegaMessage=0
 
 [POLIWRATH-1]
 Type1=DRAGON

@@ -23419,7 +23419,7 @@ Color=Black
 Habitat=Rare
 RegionalNumber=
 Kind=Thunderboom
-Pokedex=Baboom causes small electrical storms by beating the ground with its fists.  It is extremely aggressive.
+Pokedex=Baboom, a sage pokemon, causes small electrical storms by beating the ground with its fists.  It is extremely aggressive.
 Evolutions=
 [884]
 Name=Dragomite
@@ -23474,7 +23474,7 @@ Shape=6
 Kind=Heavy Weight
 RegionalNumbers=
 Evolutions=
-Pokedex=Aguanaut devastates its foes with savage blows from its fists and tail, as well as crushing grapples. Its body is armored with dense, impenetrable layers of salt.
+Pokedex=Aguanaut,a sage pokemon, devastates its foes with savage blows from its fists and tail, as well as crushing grapples. Its body is armored with dense, impenetrable layers of salt.
 [886]
 Name=Snome
 InternalName=SNOME
@@ -23498,7 +23498,7 @@ Shape=5
 Kind=Troll
 RegionalNumbers=
 Evolutions=SNOGRE,Level,33
-Pokedex=Snome is very shy and often hides under the snow. When it hides on slopes, it may accidentally roll downhill, picking up more and more snow on the way down.
+Pokedex=Snome, a sage pokemon, is very shy and often hides under the snow. When it hides on slopes, it may accidentally roll downhill, picking up more and more snow on the way down.
 [887]
 Name=Snogre
 InternalName=SNOGRE
@@ -23522,7 +23522,7 @@ Shape=5
 Kind=Troll
 RegionalNumbers=
 Evolutions=
-Pokedex=Snogre is incredibly reclusive, living in remote valleys and cliff-sides. Villages pass down stories of them appearing to save travelers lost in blizzards.
+Pokedex=Snogre, a sage pokemon, is incredibly reclusive, living in remote valleys and cliff-sides. Villages pass down stories of them appearing to save travelers lost in blizzards.
 [888]
 Name=Scovalope
 InternalName=SCOVALOPE
@@ -23547,7 +23547,7 @@ Shape=8
 Kind=Chili Rabbit
 RegionalNumbers=
 Evolutions=
-Pokedex= Scovalope is highly adept at evading detection. The fruits on its horns may fall off, and are considered both a lucky charm and a delicacy.
+Pokedex= Scovalope, a sage pokemon, is highly adept at evading detection. The fruits on its horns may fall off, and are considered both a lucky charm and a delicacy.
 [889]
 Name=Chlorofin
 InternalName=CHLOROFIN
@@ -23571,7 +23571,7 @@ Shape=3
 Kind=Dolphin
 RegionalNumbers=
 Evolutions=
-Pokedex= Chlorofin's natural camouflage makes it difficult to find in the wild, but once encountered, it'll display the playful, friendly attitude for which it's known.
+Pokedex= Chlorofin's a sage pokemon with the natural camouflage makes it difficult to find in the wild, but once encountered, it'll display the playful, friendly attitude for which it's known.
 [890]
 Name=Turkistador
 InternalName=TURKISTADOR
@@ -23595,7 +23595,7 @@ Shape=9
 Kind=Usurper
 RegionalNumbers=
 Evolutions=
-Pokedex=Turkistador often moves into other Pokémon's nests, stubbornly refusing to leave until the old inhabitant gives up and flees.
+Pokedex=Turkistador is a sage pokemon that often moves into other Pokémon's nests, stubbornly refusing to leave until the old inhabitant gives up and flees.
 [891]
 Name=Phlask
 InternalName=PHLASK
@@ -23620,7 +23620,7 @@ Shape=1
 Kind=Miasma
 RegionalNumbers=
 Evolutions=NOXIAL,Level,22
-Pokedex=Laboratory glassware possessed by a playful but frightening spirit. It is known to spew chemicals onto random objects to see what happens.
+Pokedex=A sage pokemon that is laboratory glassware possessed by a playful but frightening spirit. It is known to spew chemicals onto random objects to see what happens.
 [892]
 Name=Noxial
 InternalName=NOXIAL
@@ -23645,7 +23645,7 @@ Shape=4
 Kind=Miasma
 RegionalNumbers=
 Evolutions=FUMIGAST,Level,36
-Pokedex=Noxial spews its chemicals everywhere in an endothermic reaction.  This has allowed them to use ice type moves occasionally.
+Pokedex=Noxial, a sage pokemon, spews its chemicals everywhere in an endothermic reaction.  This has allowed them to use ice type moves occasionally.
 [893]
 Name=Fumigast
 InternalName=FUMIGAST
@@ -23670,7 +23670,7 @@ Shape=4
 Kind=Miasma
 RegionalNumbers=
 Evolutions=
-Pokedex= Within Fumighast are residual chemicals from its time as a Noxial. Using them as catalysts, Fumighast can recreate spontaneous, volatile reactions at will.
+Pokedex= Within the sage pokemon Fumighast, are residual chemicals from its time as a Noxial. Using them as catalysts, Fumighast can recreate spontaneous, volatile reactions at will.
 [894]
 Name=Orbatom
 InternalName=ORBATOM
@@ -23695,7 +23695,7 @@ Shape=11
 Kind=Atomic
 RegionalNumbers=
 Evolutions=
-Pokedex=Orbatom is able to discern objects as small as subatomic particles. It has enabled scientists to understand nuclear physics at a fundamental level.
+Pokedex=Orbatom is a sage pokemon that is able to discern objects as small as subatomic particles. It has enabled scientists to understand nuclear physics at a fundamental level.
 [895]
 Name=Magroplex
 InternalName=MAGROPLEX
@@ -23719,7 +23719,7 @@ Shape=2
 Kind=Steelsnake
 RegionalNumbers=
 Evolutions=
-Pokedex=Notoriously protective of its community, Magroplex will go so far as to collapse mines approaching its nests. Its durable body allows it to dig miles underground.
+Pokedex=A sage pokemon that notoriously protective of its community, Magroplex will go so far as to collapse mines approaching its nests. Its durable body allows it to dig miles underground.
 [896]
 Name=Royjibiv
 InternalName=ROYJIBIV
@@ -23744,7 +23744,7 @@ Shape=2
 Kind=Prismatic
 RegionalNumbers=
 Evolutions=
-Pokedex=Royjibiv's iridescent scales reflect and amplify sunlight. When flying overhead, this causes it to bathe the ground below it in every color imaginable.
+Pokedex=Royjibiv's iridescent scales reflect and amplify sunlight. When this sage pokemon is flying overhead, this causes it to bathe the ground below it in every color imaginable.
 [897]
 Name=Chillnobyl
 InternalName=CHILLNOBYL
@@ -23769,7 +23769,7 @@ Shape=5
 Kind=Meltdown
 RegionalNumbers=
 Evolutions=
-Pokedex=Chillnobyl appears near radioactive sites and absorbs the radiation there. It is often used to clean up nuclear waste and seek out leaks in nuclear reactors.
+Pokedex=Chillnobyl appears near radioactive sites and absorbs the radiation there. It is a sage pokemon that is often used to clean up nuclear waste and seek out leaks in nuclear reactors.
 [898]
 Name=Basilect
 InternalName=BASILECT
@@ -23794,7 +23794,7 @@ Shape=13
 Kind=Apex
 RegionalNumbers=
 Evolutions=
-Pokedex= Basilect uses its powerful pincers to shear and jab at foes. Opposing Basilect will grapple with their pincers and try to hurl the other as far as they can.
+Pokedex= Basilect uses its powerful pincers to shear and jab at foes. Opposing Basilect the sage pokemon will grapple with their pincers and try to hurl the other as far as they can.
 [899]
 Name=Diamat
 InternalName=DIAMAT
@@ -23818,7 +23818,7 @@ Shape=8
 Kind=Paragon
 RegionalNumbers=
 Evolutions=
-Pokedex=In battle, Diamat refracts light through its glittering body to blind foes, then finishes them off with its powerful, unbreakable claws.
+Pokedex=In battle, the sage pokemon Diamat refracts light through its glittering body to blind foes, then finishes them off with its powerful, unbreakable claws.
 [900]
 Name=Enigmantis
 InternalName=ENIGMANTIS
@@ -23843,7 +23843,7 @@ Shape=14
 Kind=Divination
 RegionalNumbers=
 Evolutions=
-Pokedex=Enigmantis uses its perfectly rounded gem to focus its psychic powers. Robbing it of its stone leaves it sluggish and listless.
+Pokedex=Enigmantis, the sage pokemon, uses its perfectly rounded gem to focus its psychic powers. Robbing it of its stone leaves it sluggish and listless.
 [901]
 Name=Hyekuza
 InternalName=HYEKUZA
@@ -23868,7 +23868,7 @@ Shape=12
 Kind=Bad News
 RegionalNumbers=
 Evolutions=
-Pokedex=Fiercely proud and protective of its hairdo, the Hyekuza with the largest and most extravagant pompadour is considered the leader of the pack. 
+Pokedex=A sage pokemon that is fiercely proud and protective of its hairdo, the Hyekuza with the largest and most extravagant pompadour is considered the leader of the pack. 
 [902]
 Name=Forthorn
 InternalName=Forthorn
@@ -23893,7 +23893,7 @@ Shape=12
 Kind=Detritus
 RegionalNumbers=
 Evolutions=
-Pokedex=Forthorn masquerades as a guardian of the forest, scaring off intruders to awe its fellow Pokémon. In reality, it is quite bashful and desires acceptance.
+Pokedex=Forthorn, the sage pokemon, masquerades as a guardian of the forest, scaring off intruders to awe its fellow Pokémon. In reality, it is quite bashful and desires acceptance.
 [903]
 Name=Charmbra
 InternalName=CHARMBRA
@@ -23918,7 +23918,7 @@ Shape=2
 Kind=Reed Snake
 RegionalNumbers=
 Evolutions=
-Pokedex=Charmbra passes air through the holes on its body to create a melody that hypnotizes its prey. The dazed targets are unable to escape its toxic fangs.
+Pokedex=Charmbra, the sage pokemon, passes air through the holes on its body to create a melody that hypnotizes its prey. The dazed targets are unable to escape its toxic fangs.
 [904]
 Name=Xochi
 InternalName=XOCHI
@@ -23943,7 +23943,7 @@ Shape=12
 Kind=Fertility
 RegionalNumbers=
 Evolutions=
-Pokedex=Xochi delights its followers with beautiful dancing and music.  People have sought out its blessing for millennia when they wish to have children.
+Pokedex=Xochi, the sage diety, delights its followers with beautiful dancing and music.  People have sought out its blessing for millennia when they wish to have children.
 [905]
 Name=Xotec
 InternalName=XOTEC
@@ -23968,4 +23968,4 @@ Shape=12
 Kind=Golden Idol
 RegionalNumbers=
 Evolutions=
-Pokedex=Xotec’s body is said to be made of pure gold.  Those who touch Xotec have been said to gain eternal luck, and even eternal life.
+Pokedex=Xotec’s body is said to be made of pure gold.  Those who touch the sage diety Xotec have been said to gain eternal luck, and even eternal life.

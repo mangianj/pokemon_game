@@ -237,3 +237,5 @@
 237,POWERSWITCH,Power Switch,“When hit the Attack and Special Attack values switch with the Defense and Special Defense values.”
 238,FINISHER,Finisher,“If opponents Hit points are under 50%, attack power is 1.3 times stronger.”
 239,NEUROFORCE,Neuroforce, “All Super Effective Attacks get a 1.5 damage multiplier.”
+240,ORBITALTIDE,Orbital Tide, "The effedt of Gravity is in effect as long as this pokemon is out."
+241,CONTENT,Content, "If the pokemon does not use a damaging move, it heals 1/16th of its HP."

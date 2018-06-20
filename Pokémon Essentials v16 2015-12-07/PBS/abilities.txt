@@ -239,3 +239,7 @@
 239,NEUROFORCE,Neuroforce, “All Super Effective Attacks get a 1.5 damage multiplier.”
 240,ORBITALTIDE,Orbital Tide, "The effedt of Gravity is in effect as long as this pokemon is out."
 241,CONTENT,Content, "If the pokemon does not use a damaging move, it heals 1/16th of its HP."
+242,SPECTRUM,Spectrum, "Royjibiv's type changes based on the color of the pokemon opposing it."
+243,WINTERCHILL,Winter Chill, "The weather is changed to nullify steel attacks."
+244,WHIRLINGSAND,Whirling Sand, "The weather is changed to nullify ice attacks."
+245,PHOENIXRISING,Phoenix Rising, "When the pokemon faints each other ally pokemon is restored 1/2 of its HP."

@@ -2507,6 +2507,25 @@ FormName=
 [FLORGES-5]
 FormName=Relic Form
 
+[DIALGA-1]
+Type1=STEEL
+Type2=DRAGON
+BaseStats=
+BaseEXP=
+EffortPoints=
+Ability=WHIRLINGSAND
+Moves=1,HARDENEDTIMESTRIKE,1,
+FormName=Primal Dialga
+
+[PALKIA-1]
+Type1=ICE
+Type2=DRAGON
+BaseStats=
+BaseEXP=
+EffortPoints=
+Ability=WINTERCHILL
+Moves=1,FROZENSPACE,1,
+FormName=Primal Palkia
 
 
 

@@ -24082,6 +24082,7 @@ Shape=3
 Kind=Anchor Shark
 Pokedex=Ikari drags its prey down to the bottom of the ocean using its tail.  When sailors see them in the water they tend to sail away.
 Evolutions=
+[911]
 
 [912]
 Name=Ragnarow

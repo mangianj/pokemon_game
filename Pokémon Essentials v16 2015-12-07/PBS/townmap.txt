@@ -10,3 +10,6 @@ Filename=
 [3]
 Name=Orange Islands
 Filename=
+[4]
+Name=West Johto
+Filename=
